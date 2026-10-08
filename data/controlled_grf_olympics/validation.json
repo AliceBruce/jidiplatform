@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "designs_unchanged": true,
+  "full_source_tasks": 8491,
+  "task_rows_across_designs": 3760,
+  "unique_selected_tasks": 2640,
+  "checks": [
+    "locked cohorts identical to outcome-blind search",
+    "source pair counts and win sums match aggregate cache",
+    "every pair first10 selected from ALL saved pair games in end/task order",
+    "distinct tasks within each design, sources may overlap across designs",
+    "fixed submission/env/owner identities and execution time bounds",
+    "midranks independently counted and rho recomputed from Pearson ranks"
+  ]
+}

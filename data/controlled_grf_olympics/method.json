@@ -1,0 +1,17 @@
+{
+  "primary_designs": [
+    "A",
+    "B"
+  ],
+  "sensitivity_design": "C",
+  "outcome_selection": false,
+  "pair_games": 10,
+  "game_order": [
+    "log_end",
+    "task_id"
+  ],
+  "ties": "round equal-opponent mean scores to12 decimals; average ranks; inversion rate excludes reference ties and reports predicted ties separately",
+  "reference": "independent historical submission IDs; mostly older than recent pool, not current-frontier ground truth",
+  "inference": "descriptive, no formal significance from overlapping leave-one-out cases; distinct task ID not proof of independent random seeds",
+  "execution": "historical saved games, no rerun of policies; calendar-time/engine/resource effects not controlled"
+}

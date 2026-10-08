@@ -1,0 +1,1486 @@
+[
+  {
+    "design_id": "env34_gap12_pool3_ref10_targets8",
+    "env_id": 34,
+    "requested_gap_months": 12,
+    "targets": [
+      30328,
+      26255,
+      26027,
+      26025,
+      25893,
+      25821,
+      25730,
+      25729
+    ],
+    "old_pool": [
+      937,
+      11801,
+      12012
+    ],
+    "recent_pool": [
+      25709,
+      25727,
+      25728
+    ],
+    "reference_pool": [
+      12335,
+      14452,
+      14497,
+      14511,
+      14612,
+      14763,
+      14783,
+      15842,
+      21913,
+      21962
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env34_gap12_pool3_ref5_targets8",
+    "env_id": 34,
+    "requested_gap_months": 12,
+    "targets": [
+      30328,
+      26255,
+      26027,
+      26025,
+      25893,
+      25821,
+      25730,
+      25729
+    ],
+    "old_pool": [
+      937,
+      11801,
+      12012
+    ],
+    "recent_pool": [
+      25709,
+      25727,
+      25728
+    ],
+    "reference_pool": [
+      12335,
+      14497,
+      14649,
+      15842,
+      21962
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env34_gap12_pool3_ref5_targets5",
+    "env_id": 34,
+    "requested_gap_months": 12,
+    "targets": [
+      30328,
+      26255,
+      26027,
+      26025,
+      25893
+    ],
+    "old_pool": [
+      937,
+      11801,
+      12012
+    ],
+    "recent_pool": [
+      25729,
+      25730,
+      25821
+    ],
+    "reference_pool": [
+      12335,
+      14511,
+      14763,
+      21962,
+      25728
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env34_gap6_pool5_ref5_targets8",
+    "env_id": 34,
+    "requested_gap_months": 6,
+    "targets": [
+      30328,
+      26255,
+      26027,
+      26025,
+      25893,
+      25821,
+      25730,
+      25729
+    ],
+    "old_pool": [
+      937,
+      11801,
+      12012,
+      12335,
+      14452
+    ],
+    "recent_pool": [
+      21913,
+      21962,
+      25709,
+      25727,
+      25728
+    ],
+    "reference_pool": [
+      14497,
+      14612,
+      14649,
+      14763,
+      15842
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env34_gap6_pool4_ref5_targets8",
+    "env_id": 34,
+    "requested_gap_months": 6,
+    "targets": [
+      30328,
+      26255,
+      26027,
+      26025,
+      25893,
+      25821,
+      25730,
+      25729
+    ],
+    "old_pool": [
+      937,
+      11801,
+      12012,
+      12335
+    ],
+    "recent_pool": [
+      21962,
+      25709,
+      25727,
+      25728
+    ],
+    "reference_pool": [
+      14452,
+      14511,
+      14649,
+      14783,
+      21913
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env34_gap6_pool3_ref10_targets8",
+    "env_id": 34,
+    "requested_gap_months": 6,
+    "targets": [
+      30328,
+      26255,
+      26027,
+      26025,
+      25893,
+      25821,
+      25730,
+      25729
+    ],
+    "old_pool": [
+      937,
+      11801,
+      12012
+    ],
+    "recent_pool": [
+      25709,
+      25727,
+      25728
+    ],
+    "reference_pool": [
+      12335,
+      14452,
+      14497,
+      14511,
+      14612,
+      14763,
+      14783,
+      15842,
+      21913,
+      21962
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env34_gap6_pool3_ref5_targets8",
+    "env_id": 34,
+    "requested_gap_months": 6,
+    "targets": [
+      30328,
+      26255,
+      26027,
+      26025,
+      25893,
+      25821,
+      25730,
+      25729
+    ],
+    "old_pool": [
+      937,
+      11801,
+      12012
+    ],
+    "recent_pool": [
+      25709,
+      25727,
+      25728
+    ],
+    "reference_pool": [
+      12335,
+      14497,
+      14649,
+      15842,
+      21962
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env34_gap6_pool3_ref5_targets5",
+    "env_id": 34,
+    "requested_gap_months": 6,
+    "targets": [
+      30328,
+      26255,
+      26027,
+      26025,
+      25893
+    ],
+    "old_pool": [
+      937,
+      11801,
+      12012
+    ],
+    "recent_pool": [
+      25729,
+      25730,
+      25821
+    ],
+    "reference_pool": [
+      12335,
+      14511,
+      14763,
+      21962,
+      25728
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env34_gap3_pool5_ref5_targets8",
+    "env_id": 34,
+    "requested_gap_months": 3,
+    "targets": [
+      30328,
+      26255,
+      26027,
+      26025,
+      25893,
+      25821,
+      25730,
+      25729
+    ],
+    "old_pool": [
+      937,
+      11801,
+      12012,
+      12335,
+      14452
+    ],
+    "recent_pool": [
+      21913,
+      21962,
+      25709,
+      25727,
+      25728
+    ],
+    "reference_pool": [
+      14497,
+      14612,
+      14649,
+      14763,
+      15842
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env34_gap3_pool4_ref5_targets8",
+    "env_id": 34,
+    "requested_gap_months": 3,
+    "targets": [
+      30328,
+      26255,
+      26027,
+      26025,
+      25893,
+      25821,
+      25730,
+      25729
+    ],
+    "old_pool": [
+      937,
+      11801,
+      12012,
+      12335
+    ],
+    "recent_pool": [
+      21962,
+      25709,
+      25727,
+      25728
+    ],
+    "reference_pool": [
+      14452,
+      14511,
+      14649,
+      14783,
+      21913
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env34_gap3_pool3_ref10_targets8",
+    "env_id": 34,
+    "requested_gap_months": 3,
+    "targets": [
+      30328,
+      26255,
+      26027,
+      26025,
+      25893,
+      25821,
+      25730,
+      25729
+    ],
+    "old_pool": [
+      937,
+      11801,
+      12012
+    ],
+    "recent_pool": [
+      25709,
+      25727,
+      25728
+    ],
+    "reference_pool": [
+      12335,
+      14452,
+      14497,
+      14511,
+      14612,
+      14763,
+      14783,
+      15842,
+      21913,
+      21962
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env34_gap3_pool3_ref5_targets8",
+    "env_id": 34,
+    "requested_gap_months": 3,
+    "targets": [
+      30328,
+      26255,
+      26027,
+      26025,
+      25893,
+      25821,
+      25730,
+      25729
+    ],
+    "old_pool": [
+      937,
+      11801,
+      12012
+    ],
+    "recent_pool": [
+      25709,
+      25727,
+      25728
+    ],
+    "reference_pool": [
+      12335,
+      14497,
+      14649,
+      15842,
+      21962
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env34_gap3_pool3_ref5_targets5",
+    "env_id": 34,
+    "requested_gap_months": 3,
+    "targets": [
+      30328,
+      26255,
+      26027,
+      26025,
+      25893
+    ],
+    "old_pool": [
+      937,
+      11801,
+      12012
+    ],
+    "recent_pool": [
+      25729,
+      25730,
+      25821
+    ],
+    "reference_pool": [
+      12335,
+      14511,
+      14763,
+      21962,
+      25728
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env34_gap0_pool5_ref5_targets8",
+    "env_id": 34,
+    "requested_gap_months": 0,
+    "targets": [
+      30328,
+      26255,
+      26027,
+      26025,
+      25893,
+      25821,
+      25730,
+      25729
+    ],
+    "old_pool": [
+      937,
+      11801,
+      12012,
+      12335,
+      14452
+    ],
+    "recent_pool": [
+      21913,
+      21962,
+      25709,
+      25727,
+      25728
+    ],
+    "reference_pool": [
+      14497,
+      14612,
+      14649,
+      14763,
+      15842
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env34_gap0_pool4_ref5_targets8",
+    "env_id": 34,
+    "requested_gap_months": 0,
+    "targets": [
+      30328,
+      26255,
+      26027,
+      26025,
+      25893,
+      25821,
+      25730,
+      25729
+    ],
+    "old_pool": [
+      937,
+      11801,
+      12012,
+      12335
+    ],
+    "recent_pool": [
+      21962,
+      25709,
+      25727,
+      25728
+    ],
+    "reference_pool": [
+      14452,
+      14511,
+      14649,
+      14783,
+      21913
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env34_gap0_pool3_ref10_targets8",
+    "env_id": 34,
+    "requested_gap_months": 0,
+    "targets": [
+      30328,
+      26255,
+      26027,
+      26025,
+      25893,
+      25821,
+      25730,
+      25729
+    ],
+    "old_pool": [
+      937,
+      11801,
+      12012
+    ],
+    "recent_pool": [
+      25709,
+      25727,
+      25728
+    ],
+    "reference_pool": [
+      12335,
+      14452,
+      14497,
+      14511,
+      14612,
+      14763,
+      14783,
+      15842,
+      21913,
+      21962
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env34_gap0_pool3_ref5_targets8",
+    "env_id": 34,
+    "requested_gap_months": 0,
+    "targets": [
+      30328,
+      26255,
+      26027,
+      26025,
+      25893,
+      25821,
+      25730,
+      25729
+    ],
+    "old_pool": [
+      937,
+      11801,
+      12012
+    ],
+    "recent_pool": [
+      25709,
+      25727,
+      25728
+    ],
+    "reference_pool": [
+      12335,
+      14497,
+      14649,
+      15842,
+      21962
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env34_gap0_pool3_ref5_targets5",
+    "env_id": 34,
+    "requested_gap_months": 0,
+    "targets": [
+      30328,
+      26255,
+      26027,
+      26025,
+      25893
+    ],
+    "old_pool": [
+      937,
+      11801,
+      12012
+    ],
+    "recent_pool": [
+      25729,
+      25730,
+      25821
+    ],
+    "reference_pool": [
+      12335,
+      14511,
+      14763,
+      21962,
+      25728
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env71_gap3_pool5_ref5_targets8",
+    "env_id": 71,
+    "requested_gap_months": 3,
+    "targets": [
+      30685,
+      25970,
+      25942,
+      25928,
+      25916,
+      25758,
+      25369,
+      14793
+    ],
+    "old_pool": [
+      10165,
+      10166,
+      11976,
+      11978,
+      12006
+    ],
+    "recent_pool": [
+      14495,
+      14526,
+      14758,
+      14776,
+      14782
+    ],
+    "reference_pool": [
+      12114,
+      12340,
+      13350,
+      14107,
+      14482
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env71_gap3_pool4_ref5_targets8",
+    "env_id": 71,
+    "requested_gap_months": 3,
+    "targets": [
+      30685,
+      25970,
+      25942,
+      25928,
+      25916,
+      25758,
+      25369,
+      14793
+    ],
+    "old_pool": [
+      10165,
+      10166,
+      11976,
+      11978
+    ],
+    "recent_pool": [
+      14526,
+      14758,
+      14776,
+      14782
+    ],
+    "reference_pool": [
+      12006,
+      12128,
+      12342,
+      14339,
+      14495
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env71_gap3_pool3_ref10_targets8",
+    "env_id": 71,
+    "requested_gap_months": 3,
+    "targets": [
+      30685,
+      25970,
+      25942,
+      25928,
+      25916,
+      25758,
+      25369,
+      14793
+    ],
+    "old_pool": [
+      10165,
+      10166,
+      11976
+    ],
+    "recent_pool": [
+      14758,
+      14776,
+      14782
+    ],
+    "reference_pool": [
+      11978,
+      12006,
+      12114,
+      12340,
+      12342,
+      13350,
+      14107,
+      14482,
+      14495,
+      14526
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env71_gap3_pool3_ref5_targets8",
+    "env_id": 71,
+    "requested_gap_months": 3,
+    "targets": [
+      30685,
+      25970,
+      25942,
+      25928,
+      25916,
+      25758,
+      25369,
+      14793
+    ],
+    "old_pool": [
+      10165,
+      10166,
+      11976
+    ],
+    "recent_pool": [
+      14758,
+      14776,
+      14782
+    ],
+    "reference_pool": [
+      11978,
+      12128,
+      13350,
+      14339,
+      14526
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env71_gap3_pool3_ref5_targets5",
+    "env_id": 71,
+    "requested_gap_months": 3,
+    "targets": [
+      30685,
+      25970,
+      25942,
+      25928,
+      25916
+    ],
+    "old_pool": [
+      10165,
+      10166,
+      11976
+    ],
+    "recent_pool": [
+      14793,
+      25369,
+      25758
+    ],
+    "reference_pool": [
+      11978,
+      12340,
+      14107,
+      14495,
+      14782
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env71_gap0_pool5_ref5_targets8",
+    "env_id": 71,
+    "requested_gap_months": 0,
+    "targets": [
+      30685,
+      25970,
+      25942,
+      25928,
+      25916,
+      25758,
+      25369,
+      14793
+    ],
+    "old_pool": [
+      10165,
+      10166,
+      11976,
+      11978,
+      12006
+    ],
+    "recent_pool": [
+      14495,
+      14526,
+      14758,
+      14776,
+      14782
+    ],
+    "reference_pool": [
+      12114,
+      12340,
+      13350,
+      14107,
+      14482
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env71_gap0_pool4_ref5_targets8",
+    "env_id": 71,
+    "requested_gap_months": 0,
+    "targets": [
+      30685,
+      25970,
+      25942,
+      25928,
+      25916,
+      25758,
+      25369,
+      14793
+    ],
+    "old_pool": [
+      10165,
+      10166,
+      11976,
+      11978
+    ],
+    "recent_pool": [
+      14526,
+      14758,
+      14776,
+      14782
+    ],
+    "reference_pool": [
+      12006,
+      12128,
+      12342,
+      14339,
+      14495
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env71_gap0_pool3_ref10_targets8",
+    "env_id": 71,
+    "requested_gap_months": 0,
+    "targets": [
+      30685,
+      25970,
+      25942,
+      25928,
+      25916,
+      25758,
+      25369,
+      14793
+    ],
+    "old_pool": [
+      10165,
+      10166,
+      11976
+    ],
+    "recent_pool": [
+      14758,
+      14776,
+      14782
+    ],
+    "reference_pool": [
+      11978,
+      12006,
+      12114,
+      12340,
+      12342,
+      13350,
+      14107,
+      14482,
+      14495,
+      14526
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env71_gap0_pool3_ref5_targets8",
+    "env_id": 71,
+    "requested_gap_months": 0,
+    "targets": [
+      30685,
+      25970,
+      25942,
+      25928,
+      25916,
+      25758,
+      25369,
+      14793
+    ],
+    "old_pool": [
+      10165,
+      10166,
+      11976
+    ],
+    "recent_pool": [
+      14758,
+      14776,
+      14782
+    ],
+    "reference_pool": [
+      11978,
+      12128,
+      13350,
+      14339,
+      14526
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env71_gap0_pool3_ref5_targets5",
+    "env_id": 71,
+    "requested_gap_months": 0,
+    "targets": [
+      30685,
+      25970,
+      25942,
+      25928,
+      25916
+    ],
+    "old_pool": [
+      10165,
+      10166,
+      11976
+    ],
+    "recent_pool": [
+      14793,
+      25369,
+      25758
+    ],
+    "reference_pool": [
+      11978,
+      12340,
+      14107,
+      14495,
+      14782
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env88_gap12_pool3_ref10_targets8",
+    "env_id": 88,
+    "requested_gap_months": 12,
+    "targets": [
+      29870,
+      25687,
+      25686,
+      25677,
+      25675,
+      25579,
+      25569,
+      25384
+    ],
+    "old_pool": [
+      12352,
+      12463,
+      12470
+    ],
+    "recent_pool": [
+      23272,
+      23395,
+      23813
+    ],
+    "reference_pool": [
+      12481,
+      12666,
+      12843,
+      13319,
+      13415,
+      13488,
+      13498,
+      13503,
+      13727,
+      13887
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env88_gap12_pool3_ref5_targets8",
+    "env_id": 88,
+    "requested_gap_months": 12,
+    "targets": [
+      29870,
+      25687,
+      25686,
+      25677,
+      25675,
+      25579,
+      25569,
+      25384
+    ],
+    "old_pool": [
+      12352,
+      12463,
+      12470
+    ],
+    "recent_pool": [
+      23272,
+      23395,
+      23813
+    ],
+    "reference_pool": [
+      12481,
+      13213,
+      13488,
+      13501,
+      13887
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env88_gap12_pool3_ref5_targets5",
+    "env_id": 88,
+    "requested_gap_months": 12,
+    "targets": [
+      29870,
+      25687,
+      25686,
+      25677,
+      25675
+    ],
+    "old_pool": [
+      12352,
+      12463,
+      12470
+    ],
+    "recent_pool": [
+      25384,
+      25569,
+      25579
+    ],
+    "reference_pool": [
+      12481,
+      13213,
+      13496,
+      13731,
+      23813
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env88_gap6_pool3_ref10_targets8",
+    "env_id": 88,
+    "requested_gap_months": 6,
+    "targets": [
+      29870,
+      25687,
+      25686,
+      25677,
+      25675,
+      25579,
+      25569,
+      25384
+    ],
+    "old_pool": [
+      12352,
+      12463,
+      12470
+    ],
+    "recent_pool": [
+      23272,
+      23395,
+      23813
+    ],
+    "reference_pool": [
+      12481,
+      12666,
+      12843,
+      13319,
+      13415,
+      13488,
+      13498,
+      13503,
+      13727,
+      13887
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env88_gap6_pool3_ref5_targets8",
+    "env_id": 88,
+    "requested_gap_months": 6,
+    "targets": [
+      29870,
+      25687,
+      25686,
+      25677,
+      25675,
+      25579,
+      25569,
+      25384
+    ],
+    "old_pool": [
+      12352,
+      12463,
+      12470
+    ],
+    "recent_pool": [
+      23272,
+      23395,
+      23813
+    ],
+    "reference_pool": [
+      12481,
+      13213,
+      13488,
+      13501,
+      13887
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env88_gap6_pool3_ref5_targets5",
+    "env_id": 88,
+    "requested_gap_months": 6,
+    "targets": [
+      29870,
+      25687,
+      25686,
+      25677,
+      25675
+    ],
+    "old_pool": [
+      12352,
+      12463,
+      12470
+    ],
+    "recent_pool": [
+      25384,
+      25569,
+      25579
+    ],
+    "reference_pool": [
+      12481,
+      13213,
+      13496,
+      13731,
+      23813
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env88_gap3_pool3_ref10_targets8",
+    "env_id": 88,
+    "requested_gap_months": 3,
+    "targets": [
+      29870,
+      25687,
+      25686,
+      25677,
+      25675,
+      25579,
+      25569,
+      25384
+    ],
+    "old_pool": [
+      12352,
+      12463,
+      12470
+    ],
+    "recent_pool": [
+      23272,
+      23395,
+      23813
+    ],
+    "reference_pool": [
+      12481,
+      12666,
+      12843,
+      13319,
+      13415,
+      13488,
+      13498,
+      13503,
+      13727,
+      13887
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env88_gap3_pool3_ref5_targets8",
+    "env_id": 88,
+    "requested_gap_months": 3,
+    "targets": [
+      29870,
+      25687,
+      25686,
+      25677,
+      25675,
+      25579,
+      25569,
+      25384
+    ],
+    "old_pool": [
+      12352,
+      12463,
+      12470
+    ],
+    "recent_pool": [
+      23272,
+      23395,
+      23813
+    ],
+    "reference_pool": [
+      12481,
+      13213,
+      13488,
+      13501,
+      13887
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env88_gap3_pool3_ref5_targets5",
+    "env_id": 88,
+    "requested_gap_months": 3,
+    "targets": [
+      29870,
+      25687,
+      25686,
+      25677,
+      25675
+    ],
+    "old_pool": [
+      12352,
+      12463,
+      12470
+    ],
+    "recent_pool": [
+      25384,
+      25569,
+      25579
+    ],
+    "reference_pool": [
+      12481,
+      13213,
+      13496,
+      13731,
+      23813
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env88_gap0_pool5_ref10_targets8",
+    "env_id": 88,
+    "requested_gap_months": 0,
+    "targets": [
+      29870,
+      25687,
+      25686,
+      25677,
+      25675,
+      25579,
+      25569,
+      25384
+    ],
+    "old_pool": [
+      12352,
+      12463,
+      12470,
+      12481,
+      12649
+    ],
+    "recent_pool": [
+      13731,
+      13887,
+      23272,
+      23395,
+      23813
+    ],
+    "reference_pool": [
+      12666,
+      12843,
+      13213,
+      13373,
+      13415,
+      13488,
+      13496,
+      13501,
+      13503,
+      13727
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env88_gap0_pool5_ref5_targets8",
+    "env_id": 88,
+    "requested_gap_months": 0,
+    "targets": [
+      29870,
+      25687,
+      25686,
+      25677,
+      25675,
+      25579,
+      25569,
+      25384
+    ],
+    "old_pool": [
+      12352,
+      12463,
+      12470,
+      12481,
+      12649
+    ],
+    "recent_pool": [
+      13731,
+      13887,
+      23272,
+      23395,
+      23813
+    ],
+    "reference_pool": [
+      12666,
+      13319,
+      13488,
+      13498,
+      13727
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env88_gap0_pool4_ref5_targets8",
+    "env_id": 88,
+    "requested_gap_months": 0,
+    "targets": [
+      29870,
+      25687,
+      25686,
+      25677,
+      25675,
+      25579,
+      25569,
+      25384
+    ],
+    "old_pool": [
+      12352,
+      12463,
+      12470,
+      12481
+    ],
+    "recent_pool": [
+      13887,
+      23272,
+      23395,
+      23813
+    ],
+    "reference_pool": [
+      12649,
+      13213,
+      13415,
+      13501,
+      13731
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env88_gap0_pool3_ref10_targets8",
+    "env_id": 88,
+    "requested_gap_months": 0,
+    "targets": [
+      29870,
+      25687,
+      25686,
+      25677,
+      25675,
+      25579,
+      25569,
+      25384
+    ],
+    "old_pool": [
+      12352,
+      12463,
+      12470
+    ],
+    "recent_pool": [
+      23272,
+      23395,
+      23813
+    ],
+    "reference_pool": [
+      12481,
+      12666,
+      12843,
+      13319,
+      13415,
+      13488,
+      13498,
+      13503,
+      13727,
+      13887
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env88_gap0_pool3_ref5_targets8",
+    "env_id": 88,
+    "requested_gap_months": 0,
+    "targets": [
+      29870,
+      25687,
+      25686,
+      25677,
+      25675,
+      25579,
+      25569,
+      25384
+    ],
+    "old_pool": [
+      12352,
+      12463,
+      12470
+    ],
+    "recent_pool": [
+      23272,
+      23395,
+      23813
+    ],
+    "reference_pool": [
+      12481,
+      13213,
+      13488,
+      13501,
+      13887
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  },
+  {
+    "design_id": "env88_gap0_pool3_ref5_targets5",
+    "env_id": 88,
+    "requested_gap_months": 0,
+    "targets": [
+      29870,
+      25687,
+      25686,
+      25677,
+      25675
+    ],
+    "old_pool": [
+      12352,
+      12463,
+      12470
+    ],
+    "recent_pool": [
+      25384,
+      25569,
+      25579
+    ],
+    "reference_pool": [
+      12481,
+      13213,
+      13496,
+      13731,
+      23813
+    ],
+    "selection": "first deterministic DFS solution; targets newest first, old earliest k common opponents, recent latest k before earliest target, reference evenly spaced by chronology among remaining common opponents; counts and dates only"
+  }
+]

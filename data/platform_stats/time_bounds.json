@@ -1,0 +1,806 @@
+{
+  "user": {
+    "min": "2021-07-01 11:22:30",
+    "max": "2026-09-09 14:23:17"
+  },
+  "submission": {
+    "min": "2021-02-23 18:06:54",
+    "max": "2026-07-31 15:16:50"
+  },
+  "agent_history": {
+    "min": "2021-03-22 17:10:04",
+    "max": "2026-07-30 20:47:24"
+  },
+  "earliest_submissions": [
+    {
+      "id": 1,
+      "user_id": 62,
+      "env_id": 6,
+      "create_time": "2021-02-23 18:06:54"
+    },
+    {
+      "id": 2,
+      "user_id": 60,
+      "env_id": 6,
+      "create_time": "2021-02-23 18:12:42"
+    },
+    {
+      "id": 3,
+      "user_id": 133,
+      "env_id": 8,
+      "create_time": "2021-02-26 10:22:29"
+    },
+    {
+      "id": 4,
+      "user_id": 133,
+      "env_id": 8,
+      "create_time": "2021-02-26 10:23:41"
+    },
+    {
+      "id": 5,
+      "user_id": 133,
+      "env_id": 8,
+      "create_time": "2021-02-26 10:25:45"
+    },
+    {
+      "id": 6,
+      "user_id": 134,
+      "env_id": 6,
+      "create_time": "2021-02-26 20:42:50"
+    },
+    {
+      "id": 7,
+      "user_id": 134,
+      "env_id": 6,
+      "create_time": "2021-02-26 20:47:09"
+    },
+    {
+      "id": 8,
+      "user_id": 134,
+      "env_id": 6,
+      "create_time": "2021-02-26 20:48:54"
+    },
+    {
+      "id": 9,
+      "user_id": 134,
+      "env_id": 6,
+      "create_time": "2021-02-26 21:09:22"
+    },
+    {
+      "id": 10,
+      "user_id": 133,
+      "env_id": 8,
+      "create_time": "2021-03-01 22:09:43"
+    }
+  ],
+  "user_monthly": [
+    {
+      "month": "2021-07",
+      "new_users": 96
+    },
+    {
+      "month": "2021-08",
+      "new_users": 2229
+    },
+    {
+      "month": "2021-09",
+      "new_users": 104
+    },
+    {
+      "month": "2021-10",
+      "new_users": 136
+    },
+    {
+      "month": "2021-11",
+      "new_users": 260
+    },
+    {
+      "month": "2021-12",
+      "new_users": 106
+    },
+    {
+      "month": "2022-01",
+      "new_users": 20
+    },
+    {
+      "month": "2022-02",
+      "new_users": 80
+    },
+    {
+      "month": "2022-03",
+      "new_users": 106
+    },
+    {
+      "month": "2022-04",
+      "new_users": 81
+    },
+    {
+      "month": "2022-05",
+      "new_users": 280
+    },
+    {
+      "month": "2022-06",
+      "new_users": 89
+    },
+    {
+      "month": "2022-07",
+      "new_users": 69
+    },
+    {
+      "month": "2022-08",
+      "new_users": 366
+    },
+    {
+      "month": "2022-09",
+      "new_users": 76
+    },
+    {
+      "month": "2022-10",
+      "new_users": 176
+    },
+    {
+      "month": "2022-11",
+      "new_users": 137
+    },
+    {
+      "month": "2022-12",
+      "new_users": 39
+    },
+    {
+      "month": "2023-01",
+      "new_users": 23
+    },
+    {
+      "month": "2023-02",
+      "new_users": 42
+    },
+    {
+      "month": "2023-03",
+      "new_users": 69
+    },
+    {
+      "month": "2023-04",
+      "new_users": 103
+    },
+    {
+      "month": "2023-05",
+      "new_users": 89
+    },
+    {
+      "month": "2023-06",
+      "new_users": 54
+    },
+    {
+      "month": "2023-07",
+      "new_users": 45
+    },
+    {
+      "month": "2023-08",
+      "new_users": 41
+    },
+    {
+      "month": "2023-09",
+      "new_users": 36
+    },
+    {
+      "month": "2023-10",
+      "new_users": 86
+    },
+    {
+      "month": "2023-11",
+      "new_users": 152
+    },
+    {
+      "month": "2023-12",
+      "new_users": 119
+    },
+    {
+      "month": "2024-01",
+      "new_users": 31
+    },
+    {
+      "month": "2024-02",
+      "new_users": 24
+    },
+    {
+      "month": "2024-03",
+      "new_users": 52
+    },
+    {
+      "month": "2024-04",
+      "new_users": 21
+    },
+    {
+      "month": "2024-05",
+      "new_users": 25
+    },
+    {
+      "month": "2024-06",
+      "new_users": 53
+    },
+    {
+      "month": "2024-07",
+      "new_users": 47
+    },
+    {
+      "month": "2024-08",
+      "new_users": 16
+    },
+    {
+      "month": "2024-09",
+      "new_users": 9
+    },
+    {
+      "month": "2024-10",
+      "new_users": 15
+    },
+    {
+      "month": "2024-11",
+      "new_users": 38
+    },
+    {
+      "month": "2024-12",
+      "new_users": 146
+    },
+    {
+      "month": "2025-01",
+      "new_users": 4
+    },
+    {
+      "month": "2025-02",
+      "new_users": 24
+    },
+    {
+      "month": "2025-03",
+      "new_users": 75
+    },
+    {
+      "month": "2025-04",
+      "new_users": 53
+    },
+    {
+      "month": "2025-05",
+      "new_users": 16
+    },
+    {
+      "month": "2025-06",
+      "new_users": 20
+    },
+    {
+      "month": "2025-07",
+      "new_users": 14
+    },
+    {
+      "month": "2025-08",
+      "new_users": 11
+    },
+    {
+      "month": "2025-09",
+      "new_users": 9
+    },
+    {
+      "month": "2025-10",
+      "new_users": 11
+    },
+    {
+      "month": "2025-11",
+      "new_users": 22
+    },
+    {
+      "month": "2025-12",
+      "new_users": 169
+    },
+    {
+      "month": "2026-01",
+      "new_users": 31
+    },
+    {
+      "month": "2026-02",
+      "new_users": 2
+    },
+    {
+      "month": "2026-03",
+      "new_users": 31
+    },
+    {
+      "month": "2026-04",
+      "new_users": 12
+    },
+    {
+      "month": "2026-05",
+      "new_users": 7
+    },
+    {
+      "month": "2026-06",
+      "new_users": 8
+    },
+    {
+      "month": "2026-07",
+      "new_users": 2
+    },
+    {
+      "month": "2026-08",
+      "new_users": 6
+    },
+    {
+      "month": "2026-09",
+      "new_users": 1
+    }
+  ],
+  "submission_monthly": [
+    {
+      "month": "2021-02",
+      "new_submissions": 9
+    },
+    {
+      "month": "2021-03",
+      "new_submissions": 67
+    },
+    {
+      "month": "2021-04",
+      "new_submissions": 93
+    },
+    {
+      "month": "2021-05",
+      "new_submissions": 53
+    },
+    {
+      "month": "2021-06",
+      "new_submissions": 159
+    },
+    {
+      "month": "2021-07",
+      "new_submissions": 571
+    },
+    {
+      "month": "2021-08",
+      "new_submissions": 7137
+    },
+    {
+      "month": "2021-09",
+      "new_submissions": 328
+    },
+    {
+      "month": "2021-10",
+      "new_submissions": 310
+    },
+    {
+      "month": "2021-11",
+      "new_submissions": 1096
+    },
+    {
+      "month": "2021-12",
+      "new_submissions": 1266
+    },
+    {
+      "month": "2022-01",
+      "new_submissions": 472
+    },
+    {
+      "month": "2022-02",
+      "new_submissions": 169
+    },
+    {
+      "month": "2022-03",
+      "new_submissions": 173
+    },
+    {
+      "month": "2022-04",
+      "new_submissions": 326
+    },
+    {
+      "month": "2022-05",
+      "new_submissions": 589
+    },
+    {
+      "month": "2022-06",
+      "new_submissions": 793
+    },
+    {
+      "month": "2022-07",
+      "new_submissions": 799
+    },
+    {
+      "month": "2022-08",
+      "new_submissions": 1916
+    },
+    {
+      "month": "2022-09",
+      "new_submissions": 1163
+    },
+    {
+      "month": "2022-10",
+      "new_submissions": 1531
+    },
+    {
+      "month": "2022-11",
+      "new_submissions": 1471
+    },
+    {
+      "month": "2022-12",
+      "new_submissions": 901
+    },
+    {
+      "month": "2023-01",
+      "new_submissions": 240
+    },
+    {
+      "month": "2023-02",
+      "new_submissions": 80
+    },
+    {
+      "month": "2023-03",
+      "new_submissions": 265
+    },
+    {
+      "month": "2023-04",
+      "new_submissions": 443
+    },
+    {
+      "month": "2023-05",
+      "new_submissions": 2697
+    },
+    {
+      "month": "2023-06",
+      "new_submissions": 358
+    },
+    {
+      "month": "2023-07",
+      "new_submissions": 239
+    },
+    {
+      "month": "2023-08",
+      "new_submissions": 103
+    },
+    {
+      "month": "2023-09",
+      "new_submissions": 90
+    },
+    {
+      "month": "2023-10",
+      "new_submissions": 270
+    },
+    {
+      "month": "2023-11",
+      "new_submissions": 2595
+    },
+    {
+      "month": "2023-12",
+      "new_submissions": 214
+    },
+    {
+      "month": "2024-01",
+      "new_submissions": 148
+    },
+    {
+      "month": "2024-02",
+      "new_submissions": 79
+    },
+    {
+      "month": "2024-03",
+      "new_submissions": 309
+    },
+    {
+      "month": "2024-04",
+      "new_submissions": 872
+    },
+    {
+      "month": "2024-05",
+      "new_submissions": 290
+    },
+    {
+      "month": "2024-06",
+      "new_submissions": 166
+    },
+    {
+      "month": "2024-07",
+      "new_submissions": 315
+    },
+    {
+      "month": "2024-08",
+      "new_submissions": 49
+    },
+    {
+      "month": "2024-09",
+      "new_submissions": 6
+    },
+    {
+      "month": "2024-10",
+      "new_submissions": 49
+    },
+    {
+      "month": "2024-11",
+      "new_submissions": 118
+    },
+    {
+      "month": "2024-12",
+      "new_submissions": 181
+    },
+    {
+      "month": "2025-02",
+      "new_submissions": 21
+    },
+    {
+      "month": "2025-03",
+      "new_submissions": 129
+    },
+    {
+      "month": "2025-04",
+      "new_submissions": 746
+    },
+    {
+      "month": "2025-05",
+      "new_submissions": 217
+    },
+    {
+      "month": "2025-06",
+      "new_submissions": 80
+    },
+    {
+      "month": "2025-07",
+      "new_submissions": 81
+    },
+    {
+      "month": "2025-08",
+      "new_submissions": 9
+    },
+    {
+      "month": "2025-09",
+      "new_submissions": 2
+    },
+    {
+      "month": "2025-11",
+      "new_submissions": 4
+    },
+    {
+      "month": "2025-12",
+      "new_submissions": 1121
+    },
+    {
+      "month": "2026-01",
+      "new_submissions": 340
+    },
+    {
+      "month": "2026-02",
+      "new_submissions": 3
+    },
+    {
+      "month": "2026-03",
+      "new_submissions": 37
+    },
+    {
+      "month": "2026-04",
+      "new_submissions": 22
+    },
+    {
+      "month": "2026-06",
+      "new_submissions": 4
+    },
+    {
+      "month": "2026-07",
+      "new_submissions": 5
+    }
+  ],
+  "match_monthly": [
+    {
+      "month": "2021-03",
+      "new_matches": 146
+    },
+    {
+      "month": "2021-04",
+      "new_matches": 98675
+    },
+    {
+      "month": "2021-05",
+      "new_matches": 79831
+    },
+    {
+      "month": "2021-06",
+      "new_matches": 93129
+    },
+    {
+      "month": "2021-07",
+      "new_matches": 100332
+    },
+    {
+      "month": "2021-08",
+      "new_matches": 2706356
+    },
+    {
+      "month": "2021-09",
+      "new_matches": 2983400
+    },
+    {
+      "month": "2021-10",
+      "new_matches": 165997
+    },
+    {
+      "month": "2021-11",
+      "new_matches": 180790
+    },
+    {
+      "month": "2021-12",
+      "new_matches": 219798
+    },
+    {
+      "month": "2022-01",
+      "new_matches": 196068
+    },
+    {
+      "month": "2022-02",
+      "new_matches": 164768
+    },
+    {
+      "month": "2022-03",
+      "new_matches": 110060
+    },
+    {
+      "month": "2022-04",
+      "new_matches": 173317
+    },
+    {
+      "month": "2022-05",
+      "new_matches": 169841
+    },
+    {
+      "month": "2022-06",
+      "new_matches": 178009
+    },
+    {
+      "month": "2022-07",
+      "new_matches": 107986
+    },
+    {
+      "month": "2022-08",
+      "new_matches": 110377
+    },
+    {
+      "month": "2022-09",
+      "new_matches": 95178
+    },
+    {
+      "month": "2022-10",
+      "new_matches": 110968
+    },
+    {
+      "month": "2022-11",
+      "new_matches": 105332
+    },
+    {
+      "month": "2022-12",
+      "new_matches": 103878
+    },
+    {
+      "month": "2023-01",
+      "new_matches": 92686
+    },
+    {
+      "month": "2023-02",
+      "new_matches": 81212
+    },
+    {
+      "month": "2023-03",
+      "new_matches": 90446
+    },
+    {
+      "month": "2023-04",
+      "new_matches": 89572
+    },
+    {
+      "month": "2023-05",
+      "new_matches": 132424
+    },
+    {
+      "month": "2023-06",
+      "new_matches": 91102
+    },
+    {
+      "month": "2023-07",
+      "new_matches": 92908
+    },
+    {
+      "month": "2023-08",
+      "new_matches": 90754
+    },
+    {
+      "month": "2023-09",
+      "new_matches": 79786
+    },
+    {
+      "month": "2023-10",
+      "new_matches": 91909
+    },
+    {
+      "month": "2023-11",
+      "new_matches": 99035
+    },
+    {
+      "month": "2023-12",
+      "new_matches": 99119
+    },
+    {
+      "month": "2024-01",
+      "new_matches": 92020
+    },
+    {
+      "month": "2024-02",
+      "new_matches": 84924
+    },
+    {
+      "month": "2024-03",
+      "new_matches": 88252
+    },
+    {
+      "month": "2024-04",
+      "new_matches": 101552
+    },
+    {
+      "month": "2024-05",
+      "new_matches": 94412
+    },
+    {
+      "month": "2024-06",
+      "new_matches": 84901
+    },
+    {
+      "month": "2024-07",
+      "new_matches": 96158
+    },
+    {
+      "month": "2024-08",
+      "new_matches": 92752
+    },
+    {
+      "month": "2024-09",
+      "new_matches": 89658
+    },
+    {
+      "month": "2024-10",
+      "new_matches": 92949
+    },
+    {
+      "month": "2024-11",
+      "new_matches": 90022
+    },
+    {
+      "month": "2024-12",
+      "new_matches": 1276
+    },
+    {
+      "month": "2025-01",
+      "new_matches": 88210
+    },
+    {
+      "month": "2025-02",
+      "new_matches": 83923
+    },
+    {
+      "month": "2025-03",
+      "new_matches": 93297
+    },
+    {
+      "month": "2025-04",
+      "new_matches": 95817
+    },
+    {
+      "month": "2025-05",
+      "new_matches": 31786
+    },
+    {
+      "month": "2025-06",
+      "new_matches": 19022
+    },
+    {
+      "month": "2025-07",
+      "new_matches": 93014
+    },
+    {
+      "month": "2025-08",
+      "new_matches": 85582
+    },
+    {
+      "month": "2026-07",
+      "new_matches": 179541
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "total_matches": 11164257,
+  "match_growth_monthly": [
+    [
+      "%Y-%m",
+      11164257
+    ]
+  ],
+  "daily_avg_matches_30d": 11969.4,
+  "match_failure_rate": 1.42,
+  "wait_time_minutes": {
+    "count": 13786,
+    "P50": 0,
+    "P95": 176,
+    "mean": 3813.0,
+    "min": 0,
+    "max": 460233
+  }
+}

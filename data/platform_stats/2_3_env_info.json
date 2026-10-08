@@ -1,0 +1,2303 @@
+{
+  "total_envs": 109,
+  "env_list": [
+    [
+      1,
+      "snakes_1v1",
+      2,
+      1
+    ],
+    [
+      2,
+      "reversi_1v1",
+      2,
+      1
+    ],
+    [
+      3,
+      "gobang_1v1",
+      2,
+      1
+    ],
+    [
+      4,
+      "sokoban_2p",
+      1,
+      1
+    ],
+    [
+      5,
+      "snakes_5p",
+      1,
+      1
+    ],
+    [
+      6,
+      "snakes_3v3",
+      2,
+      1
+    ],
+    [
+      7,
+      "sokoban_1p",
+      1,
+      1
+    ],
+    [
+      8,
+      "classic_CartPole-v0",
+      1,
+      1
+    ],
+    [
+      9,
+      "classic_CartPole-v1",
+      1,
+      0
+    ],
+    [
+      10,
+      "classic_MountainCar-v0",
+      1,
+      1
+    ],
+    [
+      11,
+      "classic_MountainCarContinuous-v0",
+      1,
+      1
+    ],
+    [
+      12,
+      "classic_Pendulum-v0",
+      1,
+      1
+    ],
+    [
+      13,
+      "classic_Acrobot-v1",
+      1,
+      1
+    ],
+    [
+      14,
+      "football_11v11_kaggle",
+      2,
+      1
+    ],
+    [
+      15,
+      "MiniWorld-Hallway-v0",
+      1,
+      1
+    ],
+    [
+      16,
+      "MiniWorld-OneRoom-v0",
+      1,
+      1
+    ],
+    [
+      17,
+      "MiniWorld-OneRoomS6-v0",
+      1,
+      1
+    ],
+    [
+      18,
+      "MiniWorld-OneRoomS6Fast-v0",
+      1,
+      1
+    ],
+    [
+      19,
+      "MiniWorld-TMaze-v0",
+      1,
+      1
+    ],
+    [
+      20,
+      "MiniWorld-TMazeLeft-v0",
+      1,
+      1
+    ],
+    [
+      21,
+      "MiniWorld-TMazeRight-v0",
+      1,
+      1
+    ],
+    [
+      22,
+      "MiniGrid-DoorKey-16x16-v0",
+      1,
+      1
+    ],
+    [
+      23,
+      "MiniGrid-MultiRoom-N6-v0",
+      1,
+      1
+    ],
+    [
+      24,
+      "MiniGrid-Dynamic-Obstacles-16x16-v0",
+      1,
+      1
+    ],
+    [
+      25,
+      "ParticleEnv-simple",
+      1,
+      1
+    ],
+    [
+      26,
+      "ParticleEnv-simple_adversary",
+      2,
+      1
+    ],
+    [
+      27,
+      "ParticleEnv-simple_crypto",
+      2,
+      1
+    ],
+    [
+      28,
+      "ParticleEnv-simple_push",
+      2,
+      1
+    ],
+    [
+      29,
+      "ParticleEnv-simple_reference",
+      1,
+      1
+    ],
+    [
+      30,
+      "ParticleEnv-simple_speaker_listener",
+      1,
+      1
+    ],
+    [
+      31,
+      "ParticleEnv-simple_spread",
+      1,
+      1
+    ],
+    [
+      32,
+      "ParticleEnv-simple_tag",
+      2,
+      1
+    ],
+    [
+      33,
+      "ParticleEnv-simple_world_comm",
+      2,
+      1
+    ],
+    [
+      34,
+      "football_11_vs_11_stochastic",
+      2,
+      1
+    ],
+    [
+      35,
+      "overcookedai-cramped_room",
+      2,
+      1
+    ],
+    [
+      36,
+      "overcookedai-asymmetric_advantages",
+      2,
+      1
+    ],
+    [
+      37,
+      "overcookedai-coordination_ring",
+      2,
+      1
+    ],
+    [
+      38,
+      "overcookedai-forced_coordination",
+      2,
+      1
+    ],
+    [
+      39,
+      "overcookedai-counter_circuit",
+      2,
+      1
+    ],
+    [
+      40,
+      "magent-battle_v3-12v12",
+      2,
+      1
+    ],
+    [
+      41,
+      "magent-battle_v3-20v20",
+      2,
+      1
+    ],
+    [
+      42,
+      "gridworld",
+      1,
+      1
+    ],
+    [
+      43,
+      "cliffwalking",
+      1,
+      1
+    ],
+    [
+      44,
+      "snakes_2p",
+      1,
+      1
+    ],
+    [
+      45,
+      "smarts-loop",
+      1,
+      1
+    ],
+    [
+      46,
+      "sc2-MoveToBeacon",
+      1,
+      1
+    ],
+    [
+      47,
+      "olympics-running",
+      2,
+      1
+    ],
+    [
+      48,
+      "smarts-cloverleaf",
+      1,
+      1
+    ],
+    [
+      49,
+      "smarts-figure_eight",
+      1,
+      1
+    ],
+    [
+      50,
+      "smarts-minicity",
+      1,
+      1
+    ],
+    [
+      51,
+      "smarts-straight",
+      1,
+      1
+    ],
+    [
+      52,
+      "smarts-zoo_intersection",
+      1,
+      1
+    ],
+    [
+      53,
+      "smarts-ngsim-partial",
+      1,
+      1
+    ],
+    [
+      54,
+      "smarts-ngsim",
+      1,
+      0
+    ],
+    [
+      55,
+      "robotics_FetchPickAndPlace",
+      1,
+      1
+    ],
+    [
+      56,
+      "robotics_HandManipulateBlock",
+      1,
+      1
+    ],
+    [
+      57,
+      "robotics_HandManipulatePen",
+      1,
+      1
+    ],
+    [
+      58,
+      "sc2-CollectMineralShards",
+      1,
+      1
+    ],
+    [
+      59,
+      "sc2-FindAndDefeatZerglings",
+      1,
+      1
+    ],
+    [
+      60,
+      "sc2-DefeatRoaches",
+      1,
+      1
+    ],
+    [
+      61,
+      "sc2-DefeatZerglingsAndBanelings",
+      1,
+      1
+    ],
+    [
+      62,
+      "sc2-Simple64",
+      2,
+      1
+    ],
+    [
+      63,
+      "chessandcard-go_v4",
+      2,
+      1
+    ],
+    [
+      64,
+      "chessandcard-chess_v3",
+      2,
+      1
+    ],
+    [
+      65,
+      "chessandcard-checkers_v3",
+      2,
+      1
+    ],
+    [
+      66,
+      "chessandcard-mahjong_v3",
+      4,
+      1
+    ],
+    [
+      67,
+      "chessandcard-texas_holdem_v3",
+      2,
+      1
+    ],
+    [
+      68,
+      "chessandcard-texas_holdem_no_limit_v3",
+      2,
+      1
+    ],
+    [
+      69,
+      "chinesechess",
+      2,
+      1
+    ],
+    [
+      70,
+      "Logistics_Transportation",
+      1,
+      1
+    ],
+    [
+      71,
+      "football_5v5_malib",
+      2,
+      1
+    ],
+    [
+      72,
+      "olympics-tablehockey",
+      2,
+      1
+    ],
+    [
+      73,
+      "olympics-football",
+      2,
+      1
+    ],
+    [
+      74,
+      "olympics-wrestling",
+      2,
+      1
+    ],
+    [
+      75,
+      "olympics-billiard",
+      2,
+      1
+    ],
+    [
+      76,
+      "ParticleEnv-simple-continuous",
+      1,
+      1
+    ],
+    [
+      77,
+      "ParticleEnv-simple_adversary-continuous",
+      2,
+      1
+    ],
+    [
+      78,
+      "ParticleEnv-simple_crypto-continuous",
+      2,
+      1
+    ],
+    [
+      79,
+      "ParticleEnv-simple_push-continuous",
+      2,
+      1
+    ],
+    [
+      80,
+      "ParticleEnv-simple_reference-continuous",
+      1,
+      1
+    ],
+    [
+      81,
+      "ParticleEnv-simple_speaker_listener-continuous",
+      1,
+      1
+    ],
+    [
+      82,
+      "ParticleEnv-simple_spread-continuous",
+      1,
+      1
+    ],
+    [
+      83,
+      "ParticleEnv-simple_tag-continuous",
+      2,
+      1
+    ],
+    [
+      84,
+      "ParticleEnv-simple_world_comm-continuous",
+      2,
+      1
+    ],
+    [
+      85,
+      "olympics-curling",
+      2,
+      1
+    ],
+    [
+      86,
+      "delivery_two_agents",
+      2,
+      1
+    ],
+    [
+      87,
+      "Logistics_Transportation2",
+      1,
+      1
+    ],
+    [
+      88,
+      "olympics-integrated",
+      2,
+      1
+    ],
+    [
+      89,
+      "wilderness-navigation",
+      1,
+      1
+    ],
+    [
+      90,
+      "chessandcard-leduc_holdem_v3",
+      2,
+      1
+    ],
+    [
+      91,
+      "revive-refrigerator",
+      1,
+      1
+    ],
+    [
+      92,
+      "finrl-stocktrading",
+      1,
+      1
+    ],
+    [
+      93,
+      "olympics-billiard-competition",
+      2,
+      1
+    ],
+    [
+      94,
+      "fourplayers_nolimit_texas_holdem",
+      4,
+      1
+    ],
+    [
+      95,
+      "bridge",
+      4,
+      1
+    ],
+    [
+      96,
+      "gym_Hopper-v2",
+      1,
+      1
+    ],
+    [
+      97,
+      "gym_HalfCheetah-v2",
+      1,
+      1
+    ],
+    [
+      98,
+      "overcookedai-integrated",
+      2,
+      1
+    ],
+    [
+      99,
+      "taxing_gov",
+      1,
+      1
+    ],
+    [
+      100,
+      "taxing_household",
+      4,
+      1
+    ],
+    [
+      101,
+      "taxing_gov_comp",
+      1,
+      0
+    ],
+    [
+      102,
+      "taxing_household_comp",
+      4,
+      0
+    ],
+    [
+      103,
+      "overcookedai-integrated2",
+      2,
+      1
+    ],
+    [
+      104,
+      "kafang_stock",
+      1,
+      1
+    ],
+    [
+      105,
+      "prisoners_dilemma_in_the_matrix__repeated_scenarios",
+      1,
+      1
+    ],
+    [
+      106,
+      "prisoners_dilemma_in_the_matrix__repeated",
+      2,
+      1
+    ],
+    [
+      107,
+      "taxing_gov_heter",
+      1,
+      1
+    ],
+    [
+      108,
+      "taxing_household_heter",
+      1,
+      1
+    ],
+    [
+      109,
+      "logistics_supply_chain",
+      2,
+      1
+    ]
+  ],
+  "env_classification": [
+    {
+      "id": 1,
+      "name": "snakes_1v1",
+      "agent_number": 2,
+      "game_type": "board/card",
+      "interaction": "competitive",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 2,
+      "name": "reversi_1v1",
+      "agent_number": 2,
+      "game_type": "board/card",
+      "interaction": "competitive",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 3,
+      "name": "gobang_1v1",
+      "agent_number": 2,
+      "game_type": "board/card",
+      "interaction": "competitive",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 4,
+      "name": "sokoban_2p",
+      "agent_number": 1,
+      "game_type": "grid-navigation",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "partial"
+    },
+    {
+      "id": 5,
+      "name": "snakes_5p",
+      "agent_number": 1,
+      "game_type": "board/card",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 6,
+      "name": "snakes_3v3",
+      "agent_number": 2,
+      "game_type": "board/card",
+      "interaction": "competitive",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 7,
+      "name": "sokoban_1p",
+      "agent_number": 1,
+      "game_type": "grid-navigation",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "partial"
+    },
+    {
+      "id": 8,
+      "name": "classic_CartPole-v0",
+      "agent_number": 1,
+      "game_type": "single-agent",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "continuous",
+      "observability": "full"
+    },
+    {
+      "id": 9,
+      "name": "classic_CartPole-v1",
+      "agent_number": 1,
+      "game_type": "single-agent",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "continuous",
+      "observability": "full"
+    },
+    {
+      "id": 10,
+      "name": "classic_MountainCar-v0",
+      "agent_number": 1,
+      "game_type": "single-agent",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "continuous",
+      "observability": "full"
+    },
+    {
+      "id": 11,
+      "name": "classic_MountainCarContinuous-v0",
+      "agent_number": 1,
+      "game_type": "single-agent",
+      "interaction": "single-agent",
+      "action_space": "continuous",
+      "obs_space": "continuous",
+      "observability": "full"
+    },
+    {
+      "id": 12,
+      "name": "classic_Pendulum-v0",
+      "agent_number": 1,
+      "game_type": "single-agent",
+      "interaction": "single-agent",
+      "action_space": "continuous",
+      "obs_space": "continuous",
+      "observability": "full"
+    },
+    {
+      "id": 13,
+      "name": "classic_Acrobot-v1",
+      "agent_number": 1,
+      "game_type": "single-agent",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "continuous",
+      "observability": "full"
+    },
+    {
+      "id": 14,
+      "name": "football_11v11_kaggle",
+      "agent_number": 2,
+      "game_type": "sports/cooperation",
+      "interaction": "competitive",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 15,
+      "name": "MiniWorld-Hallway-v0",
+      "agent_number": 1,
+      "game_type": "grid-navigation",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 16,
+      "name": "MiniWorld-OneRoom-v0",
+      "agent_number": 1,
+      "game_type": "grid-navigation",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 17,
+      "name": "MiniWorld-OneRoomS6-v0",
+      "agent_number": 1,
+      "game_type": "grid-navigation",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 18,
+      "name": "MiniWorld-OneRoomS6Fast-v0",
+      "agent_number": 1,
+      "game_type": "grid-navigation",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 19,
+      "name": "MiniWorld-TMaze-v0",
+      "agent_number": 1,
+      "game_type": "grid-navigation",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 20,
+      "name": "MiniWorld-TMazeLeft-v0",
+      "agent_number": 1,
+      "game_type": "grid-navigation",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 21,
+      "name": "MiniWorld-TMazeRight-v0",
+      "agent_number": 1,
+      "game_type": "grid-navigation",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 22,
+      "name": "MiniGrid-DoorKey-16x16-v0",
+      "agent_number": 1,
+      "game_type": "grid-navigation",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 23,
+      "name": "MiniGrid-MultiRoom-N6-v0",
+      "agent_number": 1,
+      "game_type": "grid-navigation",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 24,
+      "name": "MiniGrid-Dynamic-Obstacles-16x16-v0",
+      "agent_number": 1,
+      "game_type": "grid-navigation",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 25,
+      "name": "ParticleEnv-simple",
+      "agent_number": 1,
+      "game_type": "cooperative",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 26,
+      "name": "ParticleEnv-simple_adversary",
+      "agent_number": 2,
+      "game_type": "cooperative",
+      "interaction": "cooperative",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 27,
+      "name": "ParticleEnv-simple_crypto",
+      "agent_number": 2,
+      "game_type": "cooperative",
+      "interaction": "cooperative",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 28,
+      "name": "ParticleEnv-simple_push",
+      "agent_number": 2,
+      "game_type": "cooperative",
+      "interaction": "cooperative",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 29,
+      "name": "ParticleEnv-simple_reference",
+      "agent_number": 1,
+      "game_type": "cooperative",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 30,
+      "name": "ParticleEnv-simple_speaker_listener",
+      "agent_number": 1,
+      "game_type": "cooperative",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 31,
+      "name": "ParticleEnv-simple_spread",
+      "agent_number": 1,
+      "game_type": "cooperative",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 32,
+      "name": "ParticleEnv-simple_tag",
+      "agent_number": 2,
+      "game_type": "cooperative",
+      "interaction": "cooperative",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 33,
+      "name": "ParticleEnv-simple_world_comm",
+      "agent_number": 2,
+      "game_type": "cooperative",
+      "interaction": "cooperative",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 34,
+      "name": "football_11_vs_11_stochastic",
+      "agent_number": 2,
+      "game_type": "sports/cooperation",
+      "interaction": "competitive",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 35,
+      "name": "overcookedai-cramped_room",
+      "agent_number": 2,
+      "game_type": "other",
+      "interaction": "competitive",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 36,
+      "name": "overcookedai-asymmetric_advantages",
+      "agent_number": 2,
+      "game_type": "other",
+      "interaction": "competitive",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 37,
+      "name": "overcookedai-coordination_ring",
+      "agent_number": 2,
+      "game_type": "other",
+      "interaction": "competitive",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 38,
+      "name": "overcookedai-forced_coordination",
+      "agent_number": 2,
+      "game_type": "other",
+      "interaction": "competitive",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 39,
+      "name": "overcookedai-counter_circuit",
+      "agent_number": 2,
+      "game_type": "other",
+      "interaction": "competitive",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 40,
+      "name": "magent-battle_v3-12v12",
+      "agent_number": 2,
+      "game_type": "large-scale",
+      "interaction": "cooperative",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 41,
+      "name": "magent-battle_v3-20v20",
+      "agent_number": 2,
+      "game_type": "large-scale",
+      "interaction": "cooperative",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 42,
+      "name": "gridworld",
+      "agent_number": 1,
+      "game_type": "other",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 43,
+      "name": "cliffwalking",
+      "agent_number": 1,
+      "game_type": "grid-navigation",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 44,
+      "name": "snakes_2p",
+      "agent_number": 1,
+      "game_type": "board/card",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 45,
+      "name": "smarts-loop",
+      "agent_number": 1,
+      "game_type": "driving",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 46,
+      "name": "sc2-MoveToBeacon",
+      "agent_number": 1,
+      "game_type": "other",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 47,
+      "name": "olympics-running",
+      "agent_number": 2,
+      "game_type": "sports",
+      "interaction": "competitive",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 48,
+      "name": "smarts-cloverleaf",
+      "agent_number": 1,
+      "game_type": "driving",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 49,
+      "name": "smarts-figure_eight",
+      "agent_number": 1,
+      "game_type": "driving",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 50,
+      "name": "smarts-minicity",
+      "agent_number": 1,
+      "game_type": "driving",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 51,
+      "name": "smarts-straight",
+      "agent_number": 1,
+      "game_type": "driving",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 52,
+      "name": "smarts-zoo_intersection",
+      "agent_number": 1,
+      "game_type": "driving",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 53,
+      "name": "smarts-ngsim-partial",
+      "agent_number": 1,
+      "game_type": "driving",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 54,
+      "name": "smarts-ngsim",
+      "agent_number": 1,
+      "game_type": "driving",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 55,
+      "name": "robotics_FetchPickAndPlace",
+      "agent_number": 1,
+      "game_type": "other",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 56,
+      "name": "robotics_HandManipulateBlock",
+      "agent_number": 1,
+      "game_type": "other",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 57,
+      "name": "robotics_HandManipulatePen",
+      "agent_number": 1,
+      "game_type": "other",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 58,
+      "name": "sc2-CollectMineralShards",
+      "agent_number": 1,
+      "game_type": "other",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 59,
+      "name": "sc2-FindAndDefeatZerglings",
+      "agent_number": 1,
+      "game_type": "other",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 60,
+      "name": "sc2-DefeatRoaches",
+      "agent_number": 1,
+      "game_type": "other",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 61,
+      "name": "sc2-DefeatZerglingsAndBanelings",
+      "agent_number": 1,
+      "game_type": "other",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 62,
+      "name": "sc2-Simple64",
+      "agent_number": 2,
+      "game_type": "other",
+      "interaction": "competitive",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 63,
+      "name": "chessandcard-go_v4",
+      "agent_number": 2,
+      "game_type": "board/card",
+      "interaction": "competitive",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 64,
+      "name": "chessandcard-chess_v3",
+      "agent_number": 2,
+      "game_type": "board/card",
+      "interaction": "competitive",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 65,
+      "name": "chessandcard-checkers_v3",
+      "agent_number": 2,
+      "game_type": "board/card",
+      "interaction": "competitive",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 66,
+      "name": "chessandcard-mahjong_v3",
+      "agent_number": 4,
+      "game_type": "board/card",
+      "interaction": "small-team",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 67,
+      "name": "chessandcard-texas_holdem_v3",
+      "agent_number": 2,
+      "game_type": "board/card",
+      "interaction": "competitive",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 68,
+      "name": "chessandcard-texas_holdem_no_limit_v3",
+      "agent_number": 2,
+      "game_type": "board/card",
+      "interaction": "competitive",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 69,
+      "name": "chinesechess",
+      "agent_number": 2,
+      "game_type": "board/card",
+      "interaction": "competitive",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 70,
+      "name": "Logistics_Transportation",
+      "agent_number": 1,
+      "game_type": "other",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 71,
+      "name": "football_5v5_malib",
+      "agent_number": 2,
+      "game_type": "sports/cooperation",
+      "interaction": "competitive",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 72,
+      "name": "olympics-tablehockey",
+      "agent_number": 2,
+      "game_type": "sports",
+      "interaction": "competitive",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 73,
+      "name": "olympics-football",
+      "agent_number": 2,
+      "game_type": "sports/cooperation",
+      "interaction": "competitive",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 74,
+      "name": "olympics-wrestling",
+      "agent_number": 2,
+      "game_type": "sports",
+      "interaction": "competitive",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 75,
+      "name": "olympics-billiard",
+      "agent_number": 2,
+      "game_type": "sports",
+      "interaction": "competitive",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 76,
+      "name": "ParticleEnv-simple-continuous",
+      "agent_number": 1,
+      "game_type": "cooperative",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 77,
+      "name": "ParticleEnv-simple_adversary-continuous",
+      "agent_number": 2,
+      "game_type": "cooperative",
+      "interaction": "cooperative",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 78,
+      "name": "ParticleEnv-simple_crypto-continuous",
+      "agent_number": 2,
+      "game_type": "cooperative",
+      "interaction": "cooperative",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 79,
+      "name": "ParticleEnv-simple_push-continuous",
+      "agent_number": 2,
+      "game_type": "cooperative",
+      "interaction": "cooperative",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 80,
+      "name": "ParticleEnv-simple_reference-continuous",
+      "agent_number": 1,
+      "game_type": "cooperative",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 81,
+      "name": "ParticleEnv-simple_speaker_listener-continuous",
+      "agent_number": 1,
+      "game_type": "cooperative",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 82,
+      "name": "ParticleEnv-simple_spread-continuous",
+      "agent_number": 1,
+      "game_type": "cooperative",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 83,
+      "name": "ParticleEnv-simple_tag-continuous",
+      "agent_number": 2,
+      "game_type": "cooperative",
+      "interaction": "cooperative",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 84,
+      "name": "ParticleEnv-simple_world_comm-continuous",
+      "agent_number": 2,
+      "game_type": "cooperative",
+      "interaction": "cooperative",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 85,
+      "name": "olympics-curling",
+      "agent_number": 2,
+      "game_type": "sports",
+      "interaction": "competitive",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 86,
+      "name": "delivery_two_agents",
+      "agent_number": 2,
+      "game_type": "other",
+      "interaction": "competitive",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 87,
+      "name": "Logistics_Transportation2",
+      "agent_number": 1,
+      "game_type": "other",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 88,
+      "name": "olympics-integrated",
+      "agent_number": 2,
+      "game_type": "sports",
+      "interaction": "competitive",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 89,
+      "name": "wilderness-navigation",
+      "agent_number": 1,
+      "game_type": "other",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 90,
+      "name": "chessandcard-leduc_holdem_v3",
+      "agent_number": 2,
+      "game_type": "board/card",
+      "interaction": "competitive",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 91,
+      "name": "revive-refrigerator",
+      "agent_number": 1,
+      "game_type": "other",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 92,
+      "name": "finrl-stocktrading",
+      "agent_number": 1,
+      "game_type": "finance",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 93,
+      "name": "olympics-billiard-competition",
+      "agent_number": 2,
+      "game_type": "sports",
+      "interaction": "competitive",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 94,
+      "name": "fourplayers_nolimit_texas_holdem",
+      "agent_number": 4,
+      "game_type": "other",
+      "interaction": "small-team",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 95,
+      "name": "bridge",
+      "agent_number": 4,
+      "game_type": "other",
+      "interaction": "small-team",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 96,
+      "name": "gym_Hopper-v2",
+      "agent_number": 1,
+      "game_type": "other",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 97,
+      "name": "gym_HalfCheetah-v2",
+      "agent_number": 1,
+      "game_type": "other",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 98,
+      "name": "overcookedai-integrated",
+      "agent_number": 2,
+      "game_type": "other",
+      "interaction": "competitive",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 99,
+      "name": "taxing_gov",
+      "agent_number": 1,
+      "game_type": "other",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 100,
+      "name": "taxing_household",
+      "agent_number": 4,
+      "game_type": "other",
+      "interaction": "small-team",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 101,
+      "name": "taxing_gov_comp",
+      "agent_number": 1,
+      "game_type": "other",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 102,
+      "name": "taxing_household_comp",
+      "agent_number": 4,
+      "game_type": "other",
+      "interaction": "small-team",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 103,
+      "name": "overcookedai-integrated2",
+      "agent_number": 2,
+      "game_type": "other",
+      "interaction": "competitive",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 104,
+      "name": "kafang_stock",
+      "agent_number": 1,
+      "game_type": "finance",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 105,
+      "name": "prisoners_dilemma_in_the_matrix__repeated_scenarios",
+      "agent_number": 1,
+      "game_type": "social-dilemma",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 106,
+      "name": "prisoners_dilemma_in_the_matrix__repeated",
+      "agent_number": 2,
+      "game_type": "social-dilemma",
+      "interaction": "competitive",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 107,
+      "name": "taxing_gov_heter",
+      "agent_number": 1,
+      "game_type": "other",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 108,
+      "name": "taxing_household_heter",
+      "agent_number": 1,
+      "game_type": "other",
+      "interaction": "single-agent",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    },
+    {
+      "id": 109,
+      "name": "logistics_supply_chain",
+      "agent_number": 2,
+      "game_type": "optimization",
+      "interaction": "competitive",
+      "action_space": "discrete",
+      "obs_space": "discrete",
+      "observability": "full"
+    }
+  ],
+  "env_type_distribution": {
+    "board/card": 14,
+    "grid-navigation": 13,
+    "single-agent": 6,
+    "sports/cooperation": 4,
+    "cooperative": 18,
+    "other": 32,
+    "large-scale": 2,
+    "driving": 8,
+    "sports": 7,
+    "finance": 2,
+    "social-dilemma": 2,
+    "optimization": 1
+  },
+  "env_interaction_distribution": {
+    "competitive": 33,
+    "single-agent": 59,
+    "cooperative": 12,
+    "small-team": 5
+  },
+  "matches_by_env": [
+    [
+      "snakes_1v1",
+      1,
+      2454898
+    ],
+    [
+      "snakes_3v3",
+      6,
+      1761240
+    ],
+    [
+      "sokoban_1p",
+      7,
+      1311221
+    ],
+    [
+      "olympics-wrestling",
+      74,
+      798326
+    ],
+    [
+      "classic_CartPole-v0",
+      8,
+      707425
+    ],
+    [
+      "cliffwalking",
+      43,
+      605964
+    ],
+    [
+      "olympics-running",
+      47,
+      517948
+    ],
+    [
+      "snakes_2p",
+      44,
+      414993
+    ],
+    [
+      "reversi_1v1",
+      2,
+      353014
+    ],
+    [
+      "chessandcard-leduc_holdem_v3",
+      90,
+      213218
+    ],
+    [
+      "gobang_1v1",
+      3,
+      184724
+    ],
+    [
+      "olympics-integrated",
+      88,
+      162576
+    ],
+    [
+      "gridworld",
+      42,
+      99042
+    ],
+    [
+      "olympics-football",
+      73,
+      89034
+    ],
+    [
+      "olympics-curling",
+      85,
+      86668
+    ],
+    [
+      "chessandcard-mahjong_v3",
+      66,
+      84556
+    ],
+    [
+      "football_5v5_malib",
+      71,
+      77374
+    ],
+    [
+      "football_11_vs_11_stochastic",
+      34,
+      72124
+    ],
+    [
+      "classic_MountainCar-v0",
+      10,
+      62139
+    ],
+    [
+      "fourplayers_nolimit_texas_holdem",
+      94,
+      57084
+    ],
+    [
+      "taxing_household",
+      100,
+      49616
+    ],
+    [
+      "ParticleEnv-simple_tag",
+      32,
+      47988
+    ],
+    [
+      "olympics-tablehockey",
+      72,
+      45510
+    ],
+    [
+      "chessandcard-texas_holdem_no_limit_v3",
+      68,
+      45380
+    ],
+    [
+      "football_11v11_kaggle",
+      14,
+      38309
+    ],
+    [
+      "snakes_5p",
+      5,
+      37270
+    ],
+    [
+      "classic_Pendulum-v0",
+      12,
+      35808
+    ],
+    [
+      "classic_Acrobot-v1",
+      13,
+      35337
+    ],
+    [
+      "ParticleEnv-simple_adversary",
+      26,
+      33834
+    ],
+    [
+      "delivery_two_agents",
+      86,
+      33596
+    ],
+    [
+      "ParticleEnv-simple_push",
+      28,
+      33452
+    ],
+    [
+      "ParticleEnv-simple_crypto",
+      27,
+      33390
+    ],
+    [
+      "overcookedai-cramped_room",
+      35,
+      31854
+    ],
+    [
+      "overcookedai-asymmetric_advantages",
+      36,
+      30134
+    ],
+    [
+      "ParticleEnv-simple_world_comm",
+      33,
+      30070
+    ],
+    [
+      "olympics-billiard-competition",
+      93,
+      28810
+    ],
+    [
+      "overcookedai-forced_coordination",
+      38,
+      28230
+    ],
+    [
+      "overcookedai-coordination_ring",
+      37,
+      28222
+    ],
+    [
+      "overcookedai-counter_circuit",
+      39,
+      28172
+    ],
+    [
+      "bridge",
+      95,
+      26748
+    ],
+    [
+      "overcookedai-integrated",
+      98,
+      19238
+    ],
+    [
+      "MiniWorld-Hallway-v0",
+      15,
+      16799
+    ],
+    [
+      "MiniWorld-OneRoom-v0",
+      16,
+      15595
+    ],
+    [
+      "overcookedai-integrated2",
+      103,
+      15474
+    ],
+    [
+      "classic_MountainCarContinuous-v0",
+      11,
+      15317
+    ],
+    [
+      "chessandcard-chess_v3",
+      64,
+      14330
+    ],
+    [
+      "olympics-billiard",
+      75,
+      12834
+    ],
+    [
+      "chessandcard-texas_holdem_v3",
+      67,
+      12546
+    ],
+    [
+      "ParticleEnv-simple_spread",
+      31,
+      10194
+    ],
+    [
+      "MiniWorld-TMaze-v0",
+      19,
+      10134
+    ],
+    [
+      "magent-battle_v3-20v20",
+      41,
+      9544
+    ],
+    [
+      "magent-battle_v3-12v12",
+      40,
+      9540
+    ],
+    [
+      "classic_CartPole-v1",
+      9,
+      9528
+    ],
+    [
+      "MiniWorld-OneRoomS6Fast-v0",
+      18,
+      9325
+    ],
+    [
+      "MiniWorld-OneRoomS6-v0",
+      17,
+      9003
+    ],
+    [
+      "chessandcard-checkers_v3",
+      65,
+      8964
+    ],
+    [
+      "MiniGrid-DoorKey-16x16-v0",
+      22,
+      8959
+    ],
+    [
+      "chessandcard-go_v4",
+      63,
+      8958
+    ],
+    [
+      "sc2-Simple64",
+      62,
+      8694
+    ],
+    [
+      "ParticleEnv-simple",
+      25,
+      8608
+    ],
+    [
+      "MiniWorld-TMazeRight-v0",
+      21,
+      8590
+    ],
+    [
+      "MiniWorld-TMazeLeft-v0",
+      20,
+      8579
+    ],
+    [
+      "prisoners_dilemma_in_the_matrix__repeated",
+      106,
+      8564
+    ],
+    [
+      "ParticleEnv-simple_speaker_listener",
+      30,
+      8096
+    ],
+    [
+      "sokoban_2p",
+      4,
+      7811
+    ],
+    [
+      "MiniGrid-MultiRoom-N6-v0",
+      23,
+      7808
+    ],
+    [
+      "MiniGrid-Dynamic-Obstacles-16x16-v0",
+      24,
+      7808
+    ],
+    [
+      "ParticleEnv-simple_tag-continuous",
+      83,
+      7518
+    ],
+    [
+      "ParticleEnv-simple_adversary-continuous",
+      77,
+      7468
+    ],
+    [
+      "ParticleEnv-simple_world_comm-continuous",
+      84,
+      7468
+    ],
+    [
+      "chinesechess",
+      69,
+      6184
+    ],
+    [
+      "ParticleEnv-simple_reference",
+      29,
+      6064
+    ],
+    [
+      "revive-refrigerator",
+      91,
+      3119
+    ],
+    [
+      "ParticleEnv-simple_push-continuous",
+      79,
+      2112
+    ],
+    [
+      "taxing_household_heter",
+      108,
+      1872
+    ],
+    [
+      "taxing_gov_heter",
+      107,
+      1825
+    ],
+    [
+      "gym_Hopper-v2",
+      96,
+      1786
+    ],
+    [
+      "ParticleEnv-simple_crypto-continuous",
+      78,
+      1552
+    ],
+    [
+      "prisoners_dilemma_in_the_matrix__repeated_scenarios",
+      105,
+      1272
+    ],
+    [
+      "taxing_gov",
+      99,
+      952
+    ],
+    [
+      "logistics_supply_chain",
+      109,
+      700
+    ],
+    [
+      "Logistics_Transportation",
+      70,
+      260
+    ],
+    [
+      "kafang_stock",
+      104,
+      242
+    ],
+    [
+      "ParticleEnv-simple_spread-continuous",
+      82,
+      80
+    ],
+    [
+      "gym_HalfCheetah-v2",
+      97,
+      60
+    ],
+    [
+      "wilderness-navigation",
+      89,
+      58
+    ],
+    [
+      "smarts-ngsim-partial",
+      53,
+      51
+    ],
+    [
+      "ParticleEnv-simple_speaker_listener-continuous",
+      81,
+      40
+    ],
+    [
+      "ParticleEnv-simple_reference-continuous",
+      80,
+      40
+    ],
+    [
+      "Logistics_Transportation2",
+      87,
+      39
+    ],
+    [
+      "ParticleEnv-simple-continuous",
+      76,
+      39
+    ],
+    [
+      "sc2-MoveToBeacon",
+      46,
+      39
+    ],
+    [
+      "robotics_HandManipulateBlock",
+      56,
+      30
+    ],
+    [
+      "sc2-DefeatRoaches",
+      60,
+      30
+    ],
+    [
+      "sc2-CollectMineralShards",
+      58,
+      30
+    ],
+    [
+      "sc2-DefeatZerglingsAndBanelings",
+      61,
+      29
+    ],
+    [
+      "robotics_HandManipulatePen",
+      57,
+      20
+    ],
+    [
+      "robotics_FetchPickAndPlace",
+      55,
+      19
+    ],
+    [
+      "sc2-FindAndDefeatZerglings",
+      59,
+      19
+    ],
+    [
+      "smarts-minicity",
+      50,
+      10
+    ],
+    [
+      "finrl-stocktrading",
+      92,
+      10
+    ],
+    [
+      "smarts-cloverleaf",
+      48,
+      10
+    ],
+    [
+      "smarts-zoo_intersection",
+      52,
+      10
+    ],
+    [
+      "smarts-straight",
+      51,
+      10
+    ],
+    [
+      "smarts-loop",
+      45,
+      10
+    ],
+    [
+      "smarts-figure_eight",
+      49,
+      9
+    ]
+  ]
+}

@@ -1,0 +1,14 @@
+env_id,env_name,players,latest_versions,latest_with_results,complete_subset_size,eligible_ge20,tau,source,selection,matrix_file
+1,snakes_1v1,2,349,312,148,True,0.12462263806881994,original_log_validated,outcome-blind multistart greedy complete subset; not proven maximum,R5/matrices/env1.json
+2,reversi_1v1,2,90,84,83,True,0.4830397454777103,additional_metadata_results_partial_log_timing,outcome-blind multistart greedy complete subset; not proven maximum,R5/matrices/env2.json
+3,gobang_1v1,2,71,59,55,True,0.23861966809388313,additional_metadata_results_partial_log_timing,outcome-blind multistart greedy complete subset; not proven maximum,R5/matrices/env3.json
+6,snakes_3v3,2,229,210,121,True,0.12490107103825425,original_log_validated,outcome-blind multistart greedy complete subset; not proven maximum,R5/matrices/env6.json
+34,football_11_vs_11_stochastic,2,50,28,25,True,0.1750988934871734,original_log_validated,outcome-blind multistart greedy complete subset; not proven maximum,R5/matrices/env34.json
+47,olympics-running,2,83,68,65,True,0.18491351655436272,original_log_validated,outcome-blind multistart greedy complete subset; not proven maximum,R5/matrices/env47.json
+71,football_5v5_malib,2,34,27,26,True,0.20856734435261184,original_log_validated,outcome-blind multistart greedy complete subset; not proven maximum,R5/matrices/env71.json
+72,olympics-tablehockey,2,32,21,20,True,0.2002116771357947,original_log_validated,outcome-blind multistart greedy complete subset; not proven maximum,R5/matrices/env72.json
+73,olympics-football,2,61,43,37,True,0.2621815326386495,original_log_validated,outcome-blind multistart greedy complete subset; not proven maximum,R5/matrices/env73.json
+74,olympics-wrestling,2,222,199,108,True,0.26941524198298894,original_log_validated,outcome-blind multistart greedy complete subset; not proven maximum,R5/matrices/env74.json
+86,delivery_two_agents,2,40,36,23,True,0.215791538667937,additional_metadata_results_partial_log_timing,outcome-blind multistart greedy complete subset; not proven maximum,R5/matrices/env86.json
+88,olympics-integrated,2,94,83,38,True,0.16498614139522383,original_log_validated,outcome-blind multistart greedy complete subset; not proven maximum,R5/matrices/env88.json
+90,chessandcard-leduc_holdem_v3,2,59,58,57,True,0.18393597673092313,additional_metadata_results_partial_log_timing,outcome-blind multistart greedy complete subset; not proven maximum,R5/matrices/env90.json

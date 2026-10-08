@@ -1,0 +1,123 @@
+{
+  "observed": {
+    "n_envs": 14,
+    "slope": 0.1069,
+    "se": 0.0626,
+    "R2": 0.1957,
+    "p_value": 0.1132
+  },
+  "power_analysis": {
+    "n_required_for_p_lt_0.05": 21,
+    "p_value_if_n": {
+      "14": 0.1132,
+      "20": 0.0508,
+      "25": 0.0268,
+      "30": 0.0144,
+      "40": 0.0043
+    },
+    "note": "假定效应量保持 R²=0.196 不变"
+  },
+  "bootstrap_10000": {
+    "slope_ci95": [
+      -0.0178,
+      0.2789
+    ],
+    "R2_ci95": [
+      0.0024,
+      0.6541
+    ],
+    "P_slope_positive": 0.9556,
+    "seed": 20260821
+  },
+  "leave_one_out": [
+    {
+      "removed_env": "olympics-wrestling",
+      "R2": 0.2141,
+      "p": 0.1113,
+      "slope": 0.114
+    },
+    {
+      "removed_env": "snakes_1v1",
+      "R2": 0.115,
+      "p": 0.257,
+      "slope": 0.0708
+    },
+    {
+      "removed_env": "snakes_3v3",
+      "R2": 0.2462,
+      "p": 0.0846,
+      "slope": 0.1257
+    },
+    {
+      "removed_env": "olympics-integrated",
+      "R2": 0.194,
+      "p": 0.132,
+      "slope": 0.1085
+    },
+    {
+      "removed_env": "gobang_1v1",
+      "R2": 0.3196,
+      "p": 0.0441,
+      "slope": 0.1392
+    },
+    {
+      "removed_env": "olympics-running",
+      "R2": 0.2204,
+      "p": 0.1056,
+      "slope": 0.1154
+    },
+    {
+      "removed_env": "reversi_1v1",
+      "R2": 0.1189,
+      "p": 0.2486,
+      "slope": 0.0746
+    },
+    {
+      "removed_env": "football_11_vs_11_stochastic",
+      "R2": 0.1688,
+      "p": 0.1631,
+      "slope": 0.0974
+    },
+    {
+      "removed_env": "delivery_two_agents",
+      "R2": 0.2135,
+      "p": 0.1119,
+      "slope": 0.1348
+    },
+    {
+      "removed_env": "olympics-football",
+      "R2": 0.2738,
+      "p": 0.0665,
+      "slope": 0.1246
+    },
+    {
+      "removed_env": "olympics-tablehockey",
+      "R2": 0.1684,
+      "p": 0.1636,
+      "slope": 0.0972
+    },
+    {
+      "removed_env": "football_5v5_malib",
+      "R2": 0.169,
+      "p": 0.1629,
+      "slope": 0.0976
+    },
+    {
+      "removed_env": "olympics-curling",
+      "R2": 0.1873,
+      "p": 0.1396,
+      "slope": 0.1062
+    },
+    {
+      "removed_env": "olympics-billiard-competition",
+      "R2": 0.1691,
+      "p": 0.1627,
+      "slope": 0.0976
+    }
+  ],
+  "permutation_null": {
+    "one_sided_p": 0.0632,
+    "T": 10000,
+    "seed": 20260821
+  }
+}

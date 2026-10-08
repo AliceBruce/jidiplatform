@@ -1,0 +1,975 @@
+{
+  "all_competitions": [
+    {
+      "id": 1,
+      "name": "贪吃蛇3v3水友赛",
+      "start_date": "2021-01-15",
+      "end_date": "2021-02-12",
+      "level": "other",
+      "teams": 5
+    },
+    {
+      "id": 4,
+      "name": "MAAI Assignment",
+      "start_date": "2021-04-23",
+      "end_date": "2021-05-27",
+      "level": "other",
+      "teams": 7
+    },
+    {
+      "id": 5,
+      "name": "snake 1V1",
+      "start_date": "2021-07-08",
+      "end_date": "2021-07-23",
+      "level": "other",
+      "teams": 19
+    },
+    {
+      "id": 6,
+      "name": "rlchina snake3v3",
+      "start_date": "2021-08-02",
+      "end_date": "2021-08-21",
+      "level": "national",
+      "teams": 80
+    },
+    {
+      "id": 7,
+      "name": "rlchina2021暑期习题课擂台",
+      "start_date": "2021-08-20",
+      "end_date": "2021-08-30",
+      "level": "national",
+      "teams": 238
+    },
+    {
+      "id": 8,
+      "name": "rlchina2021秋季赛",
+      "start_date": "2021-08-31",
+      "end_date": "2021-10-25",
+      "level": "national",
+      "teams": 67
+    },
+    {
+      "id": 9,
+      "name": "SJTU-AI3601-GoalRL",
+      "start_date": "2021-10-22",
+      "end_date": "2022-01-01",
+      "level": "university",
+      "teams": 1
+    },
+    {
+      "id": 10,
+      "name": "SJTU-AI3601-MARL",
+      "start_date": "2021-10-22",
+      "end_date": "2022-01-01",
+      "level": "university",
+      "teams": 11
+    },
+    {
+      "id": 11,
+      "name": "SJTU-AI3601-NGSIM",
+      "start_date": "2021-10-22",
+      "end_date": "2022-01-01",
+      "level": "university",
+      "teams": 3
+    },
+    {
+      "id": 12,
+      "name": "rlchina2021东",
+      "start_date": "2021-11-08",
+      "end_date": "2022-01-22",
+      "level": "national",
+      "teams": 115
+    },
+    {
+      "id": 13,
+      "name": "SJTU-CS410",
+      "start_date": "2021-11-17",
+      "end_date": "2022-01-05",
+      "level": "university",
+      "teams": 21
+    },
+    {
+      "id": 14,
+      "name": "rlchina2022春",
+      "start_date": "2022-01-29",
+      "end_date": "2022-04-20",
+      "level": "national",
+      "teams": 68
+    },
+    {
+      "id": 15,
+      "name": "Cog-football-track1",
+      "start_date": "2022-02-23",
+      "end_date": "2022-08-24",
+      "level": "international-top",
+      "teams": 18
+    },
+    {
+      "id": 16,
+      "name": "Cog-football-track2",
+      "start_date": "2022-02-23",
+      "end_date": "2022-08-24",
+      "level": "international-top",
+      "teams": 23
+    },
+    {
+      "id": 17,
+      "name": "IJACI-track",
+      "start_date": "2022-04-11",
+      "end_date": "2022-07-30",
+      "level": "national",
+      "teams": 54
+    },
+    {
+      "id": 18,
+      "name": "WAIC-track",
+      "start_date": "2022-04-20",
+      "end_date": "2022-06-28",
+      "level": "national",
+      "teams": 116
+    },
+    {
+      "id": 19,
+      "name": "USTB-football",
+      "start_date": "2022-05-16",
+      "end_date": "2022-07-06",
+      "level": "university",
+      "teams": 21
+    },
+    {
+      "id": 20,
+      "name": "rlchina2022夏",
+      "start_date": "2022-05-25",
+      "end_date": "2022-07-26",
+      "level": "national",
+      "teams": 35
+    },
+    {
+      "id": 21,
+      "name": "SJTU-Gobang",
+      "start_date": "2022-06-27",
+      "end_date": "2022-07-16",
+      "level": "university",
+      "teams": 15
+    },
+    {
+      "id": 22,
+      "name": "USTC-Snakes",
+      "start_date": "2022-07-18",
+      "end_date": "2022-10-08",
+      "level": "university",
+      "teams": 11
+    },
+    {
+      "id": 23,
+      "name": "rlchina2022秋",
+      "start_date": "2022-08-15",
+      "end_date": "2022-11-01",
+      "level": "national",
+      "teams": 86
+    },
+    {
+      "id": 24,
+      "name": "Dalian-coursework1",
+      "start_date": "2022-10-20",
+      "end_date": "2022-12-02",
+      "level": "university",
+      "teams": 51
+    },
+    {
+      "id": 26,
+      "name": "SYSU2022-coursework",
+      "start_date": "2022-11-01",
+      "end_date": "2023-01-05",
+      "level": "university",
+      "teams": 30
+    },
+    {
+      "id": 25,
+      "name": "rlchina2022冬",
+      "start_date": "2022-11-03",
+      "end_date": "2023-01-07",
+      "level": "national",
+      "teams": 69
+    },
+    {
+      "id": 27,
+      "name": "College-coursework",
+      "start_date": "2023-01-28",
+      "end_date": "2023-03-05",
+      "level": "university",
+      "teams": 5
+    },
+    {
+      "id": 28,
+      "name": "Evaluations_test",
+      "start_date": "2023-01-28",
+      "end_date": "2023-03-01",
+      "level": "other",
+      "teams": 0
+    },
+    {
+      "id": 29,
+      "name": "rlchina23春",
+      "start_date": "2023-02-19",
+      "end_date": "2023-04-21",
+      "level": "national",
+      "teams": 59
+    },
+    {
+      "id": 30,
+      "name": "AAMAS2023-track1",
+      "start_date": "2023-03-15",
+      "end_date": "2023-05-23",
+      "level": "international-top",
+      "teams": 30
+    },
+    {
+      "id": 31,
+      "name": "AAMAS2023-track2",
+      "start_date": "2023-03-15",
+      "end_date": "2023-05-23",
+      "level": "international-top",
+      "teams": 21
+    },
+    {
+      "id": 32,
+      "name": "AAMAS2023-track3",
+      "start_date": "2023-03-15",
+      "end_date": "2023-05-23",
+      "level": "international-top",
+      "teams": 30
+    },
+    {
+      "id": 33,
+      "name": "USTC-competition",
+      "start_date": "2023-03-15",
+      "end_date": "2023-06-01",
+      "level": "university",
+      "teams": 14
+    },
+    {
+      "id": 34,
+      "name": "ijcai2023",
+      "start_date": "2023-04-01",
+      "end_date": "2023-06-24",
+      "level": "international-top",
+      "teams": 39
+    },
+    {
+      "id": 35,
+      "name": "Cog2023_track1",
+      "start_date": "2023-04-01",
+      "end_date": "2023-08-10",
+      "level": "international-top",
+      "teams": 30
+    },
+    {
+      "id": 36,
+      "name": "Cog2023_track2",
+      "start_date": "2023-04-01",
+      "end_date": "2023-08-16",
+      "level": "international-top",
+      "teams": 29
+    },
+    {
+      "id": 37,
+      "name": "SJTU-2023-AI3601-MARL",
+      "start_date": "2023-04-10",
+      "end_date": "2023-05-30",
+      "level": "university",
+      "teams": 14
+    },
+    {
+      "id": 38,
+      "name": "SJTU-2023-AI3601-Imitation",
+      "start_date": "2023-04-10",
+      "end_date": "2023-05-30",
+      "level": "university",
+      "teams": 10
+    },
+    {
+      "id": 39,
+      "name": "SJTU-2023-AI3601-OfflineRL",
+      "start_date": "2023-04-10",
+      "end_date": "2023-05-30",
+      "level": "university",
+      "teams": 6
+    },
+    {
+      "id": 40,
+      "name": "SJTU-2023-AI1603-overcookedai",
+      "start_date": "2023-06-29",
+      "end_date": "2023-07-14",
+      "level": "university",
+      "teams": 13
+    },
+    {
+      "id": 41,
+      "name": "rlchina2023夏",
+      "start_date": "2023-07-06",
+      "end_date": "2023-08-28",
+      "level": "national",
+      "teams": 17
+    },
+    {
+      "id": 42,
+      "name": "CCF-TaxingAI-track1",
+      "start_date": "2023-07-06",
+      "end_date": "2023-11-30",
+      "level": "other",
+      "teams": 24
+    },
+    {
+      "id": 43,
+      "name": "CCF-TaxingAI-track2",
+      "start_date": "2023-07-06",
+      "end_date": "2023-11-31",
+      "level": "other",
+      "teams": 31
+    },
+    {
+      "id": 44,
+      "name": "rlchina2023冬",
+      "start_date": "2023-11-15",
+      "end_date": "2024-01-25",
+      "level": "national",
+      "teams": 11
+    },
+    {
+      "id": 45,
+      "name": "KaFang Technology - Stock4RL",
+      "start_date": "2023-12-01",
+      "end_date": "2024-03-25",
+      "level": "other",
+      "teams": 12
+    },
+    {
+      "id": 46,
+      "name": "AAMAS2024计算经济挑战赛-track1",
+      "start_date": "2024-03-01",
+      "end_date": "2024-05-01",
+      "level": "international-top",
+      "teams": 18
+    },
+    {
+      "id": 47,
+      "name": "AAMAS2024计算经济挑战赛-track2",
+      "start_date": "2024-03-01",
+      "end_date": "2024-05-01",
+      "level": "international-top",
+      "teams": 13
+    },
+    {
+      "id": 48,
+      "name": "AAMAS2024Card-track1",
+      "start_date": "2024-03-01",
+      "end_date": "2024-05-01",
+      "level": "international-top",
+      "teams": 17
+    },
+    {
+      "id": 49,
+      "name": "AAMAS2024Card-track2",
+      "start_date": "2024-03-01",
+      "end_date": "2024-05-01",
+      "level": "international-top",
+      "teams": 9
+    },
+    {
+      "id": 50,
+      "name": "AAMAS2024Card-track3",
+      "start_date": "2024-03-01",
+      "end_date": "2024-05-01",
+      "level": "international-top",
+      "teams": 18
+    },
+    {
+      "id": 51,
+      "name": "上海交通大学 AI3617 竞赛 - 赛道1",
+      "start_date": "2024-05-16",
+      "end_date": "2024-06-03",
+      "level": "other",
+      "teams": 6
+    },
+    {
+      "id": 52,
+      "name": "上海交通大学 AI3617 竞赛 - 赛道2",
+      "start_date": "2024-05-16",
+      "end_date": "2024-06-03",
+      "level": "other",
+      "teams": 4
+    },
+    {
+      "id": 53,
+      "name": "RLChina2024夏",
+      "start_date": "2024-06-18",
+      "end_date": "2024-07-23",
+      "level": "national",
+      "teams": 37
+    },
+    {
+      "id": 54,
+      "name": "上海交通大学2024AI竞赛",
+      "start_date": "2024-06-25",
+      "end_date": "2024-07-18",
+      "level": "other",
+      "teams": 9
+    },
+    {
+      "id": 57,
+      "name": "国科大多智能体系统课程作业2025",
+      "start_date": "2025-02-24",
+      "end_date": "2025-04-13",
+      "level": "other",
+      "teams": 22
+    },
+    {
+      "id": 55,
+      "name": "AAMAS2025计算经济挑战赛-track1",
+      "start_date": "2025-03-14",
+      "end_date": "2025-05-14",
+      "level": "international-top",
+      "teams": 18
+    },
+    {
+      "id": 56,
+      "name": "AAMAS2025计算经济挑战赛-track2",
+      "start_date": "2025-03-14",
+      "end_date": "2025-05-14",
+      "level": "international-top",
+      "teams": 16
+    },
+    {
+      "id": 58,
+      "name": "AAMAS2025Card-track1",
+      "start_date": "2025-04-03",
+      "end_date": "2025-05-14",
+      "level": "international-top",
+      "teams": 12
+    },
+    {
+      "id": 59,
+      "name": "AAMAS2025Card-track2",
+      "start_date": "2025-04-03",
+      "end_date": "2025-05-14",
+      "level": "international-top",
+      "teams": 8
+    },
+    {
+      "id": 60,
+      "name": "AAMAS2025Card-track3",
+      "start_date": "2025-04-03",
+      "end_date": "2025-05-14",
+      "level": "international-top",
+      "teams": 12
+    },
+    {
+      "id": 61,
+      "name": "上海创智学院实训擂台",
+      "start_date": "2025-11-07",
+      "end_date": "2025-11-11",
+      "level": "other",
+      "teams": 10
+    },
+    {
+      "id": 62,
+      "name": "国科大多智能体系统课程作业2026",
+      "start_date": "2026-03-01",
+      "end_date": "2026-04-11",
+      "level": "other",
+      "teams": 13
+    }
+  ],
+  "total_competitions": 60,
+  "by_level": {
+    "international-top": [
+      {
+        "id": 15,
+        "name": "Cog-football-track1",
+        "start_date": "2022-02-23",
+        "end_date": "2022-08-24",
+        "level": "international-top",
+        "teams": 18
+      },
+      {
+        "id": 16,
+        "name": "Cog-football-track2",
+        "start_date": "2022-02-23",
+        "end_date": "2022-08-24",
+        "level": "international-top",
+        "teams": 23
+      },
+      {
+        "id": 30,
+        "name": "AAMAS2023-track1",
+        "start_date": "2023-03-15",
+        "end_date": "2023-05-23",
+        "level": "international-top",
+        "teams": 30
+      },
+      {
+        "id": 31,
+        "name": "AAMAS2023-track2",
+        "start_date": "2023-03-15",
+        "end_date": "2023-05-23",
+        "level": "international-top",
+        "teams": 21
+      },
+      {
+        "id": 32,
+        "name": "AAMAS2023-track3",
+        "start_date": "2023-03-15",
+        "end_date": "2023-05-23",
+        "level": "international-top",
+        "teams": 30
+      },
+      {
+        "id": 34,
+        "name": "ijcai2023",
+        "start_date": "2023-04-01",
+        "end_date": "2023-06-24",
+        "level": "international-top",
+        "teams": 39
+      },
+      {
+        "id": 35,
+        "name": "Cog2023_track1",
+        "start_date": "2023-04-01",
+        "end_date": "2023-08-10",
+        "level": "international-top",
+        "teams": 30
+      },
+      {
+        "id": 36,
+        "name": "Cog2023_track2",
+        "start_date": "2023-04-01",
+        "end_date": "2023-08-16",
+        "level": "international-top",
+        "teams": 29
+      },
+      {
+        "id": 46,
+        "name": "AAMAS2024计算经济挑战赛-track1",
+        "start_date": "2024-03-01",
+        "end_date": "2024-05-01",
+        "level": "international-top",
+        "teams": 18
+      },
+      {
+        "id": 47,
+        "name": "AAMAS2024计算经济挑战赛-track2",
+        "start_date": "2024-03-01",
+        "end_date": "2024-05-01",
+        "level": "international-top",
+        "teams": 13
+      },
+      {
+        "id": 48,
+        "name": "AAMAS2024Card-track1",
+        "start_date": "2024-03-01",
+        "end_date": "2024-05-01",
+        "level": "international-top",
+        "teams": 17
+      },
+      {
+        "id": 49,
+        "name": "AAMAS2024Card-track2",
+        "start_date": "2024-03-01",
+        "end_date": "2024-05-01",
+        "level": "international-top",
+        "teams": 9
+      },
+      {
+        "id": 50,
+        "name": "AAMAS2024Card-track3",
+        "start_date": "2024-03-01",
+        "end_date": "2024-05-01",
+        "level": "international-top",
+        "teams": 18
+      },
+      {
+        "id": 55,
+        "name": "AAMAS2025计算经济挑战赛-track1",
+        "start_date": "2025-03-14",
+        "end_date": "2025-05-14",
+        "level": "international-top",
+        "teams": 18
+      },
+      {
+        "id": 56,
+        "name": "AAMAS2025计算经济挑战赛-track2",
+        "start_date": "2025-03-14",
+        "end_date": "2025-05-14",
+        "level": "international-top",
+        "teams": 16
+      },
+      {
+        "id": 58,
+        "name": "AAMAS2025Card-track1",
+        "start_date": "2025-04-03",
+        "end_date": "2025-05-14",
+        "level": "international-top",
+        "teams": 12
+      },
+      {
+        "id": 59,
+        "name": "AAMAS2025Card-track2",
+        "start_date": "2025-04-03",
+        "end_date": "2025-05-14",
+        "level": "international-top",
+        "teams": 8
+      },
+      {
+        "id": 60,
+        "name": "AAMAS2025Card-track3",
+        "start_date": "2025-04-03",
+        "end_date": "2025-05-14",
+        "level": "international-top",
+        "teams": 12
+      }
+    ],
+    "national": [
+      {
+        "id": 6,
+        "name": "rlchina snake3v3",
+        "start_date": "2021-08-02",
+        "end_date": "2021-08-21",
+        "level": "national",
+        "teams": 80
+      },
+      {
+        "id": 7,
+        "name": "rlchina2021暑期习题课擂台",
+        "start_date": "2021-08-20",
+        "end_date": "2021-08-30",
+        "level": "national",
+        "teams": 238
+      },
+      {
+        "id": 8,
+        "name": "rlchina2021秋季赛",
+        "start_date": "2021-08-31",
+        "end_date": "2021-10-25",
+        "level": "national",
+        "teams": 67
+      },
+      {
+        "id": 12,
+        "name": "rlchina2021东",
+        "start_date": "2021-11-08",
+        "end_date": "2022-01-22",
+        "level": "national",
+        "teams": 115
+      },
+      {
+        "id": 14,
+        "name": "rlchina2022春",
+        "start_date": "2022-01-29",
+        "end_date": "2022-04-20",
+        "level": "national",
+        "teams": 68
+      },
+      {
+        "id": 17,
+        "name": "IJACI-track",
+        "start_date": "2022-04-11",
+        "end_date": "2022-07-30",
+        "level": "national",
+        "teams": 54
+      },
+      {
+        "id": 18,
+        "name": "WAIC-track",
+        "start_date": "2022-04-20",
+        "end_date": "2022-06-28",
+        "level": "national",
+        "teams": 116
+      },
+      {
+        "id": 20,
+        "name": "rlchina2022夏",
+        "start_date": "2022-05-25",
+        "end_date": "2022-07-26",
+        "level": "national",
+        "teams": 35
+      },
+      {
+        "id": 23,
+        "name": "rlchina2022秋",
+        "start_date": "2022-08-15",
+        "end_date": "2022-11-01",
+        "level": "national",
+        "teams": 86
+      },
+      {
+        "id": 25,
+        "name": "rlchina2022冬",
+        "start_date": "2022-11-03",
+        "end_date": "2023-01-07",
+        "level": "national",
+        "teams": 69
+      },
+      {
+        "id": 29,
+        "name": "rlchina23春",
+        "start_date": "2023-02-19",
+        "end_date": "2023-04-21",
+        "level": "national",
+        "teams": 59
+      },
+      {
+        "id": 41,
+        "name": "rlchina2023夏",
+        "start_date": "2023-07-06",
+        "end_date": "2023-08-28",
+        "level": "national",
+        "teams": 17
+      },
+      {
+        "id": 44,
+        "name": "rlchina2023冬",
+        "start_date": "2023-11-15",
+        "end_date": "2024-01-25",
+        "level": "national",
+        "teams": 11
+      },
+      {
+        "id": 53,
+        "name": "RLChina2024夏",
+        "start_date": "2024-06-18",
+        "end_date": "2024-07-23",
+        "level": "national",
+        "teams": 37
+      }
+    ],
+    "university": [
+      {
+        "id": 9,
+        "name": "SJTU-AI3601-GoalRL",
+        "start_date": "2021-10-22",
+        "end_date": "2022-01-01",
+        "level": "university",
+        "teams": 1
+      },
+      {
+        "id": 10,
+        "name": "SJTU-AI3601-MARL",
+        "start_date": "2021-10-22",
+        "end_date": "2022-01-01",
+        "level": "university",
+        "teams": 11
+      },
+      {
+        "id": 11,
+        "name": "SJTU-AI3601-NGSIM",
+        "start_date": "2021-10-22",
+        "end_date": "2022-01-01",
+        "level": "university",
+        "teams": 3
+      },
+      {
+        "id": 13,
+        "name": "SJTU-CS410",
+        "start_date": "2021-11-17",
+        "end_date": "2022-01-05",
+        "level": "university",
+        "teams": 21
+      },
+      {
+        "id": 19,
+        "name": "USTB-football",
+        "start_date": "2022-05-16",
+        "end_date": "2022-07-06",
+        "level": "university",
+        "teams": 21
+      },
+      {
+        "id": 21,
+        "name": "SJTU-Gobang",
+        "start_date": "2022-06-27",
+        "end_date": "2022-07-16",
+        "level": "university",
+        "teams": 15
+      },
+      {
+        "id": 22,
+        "name": "USTC-Snakes",
+        "start_date": "2022-07-18",
+        "end_date": "2022-10-08",
+        "level": "university",
+        "teams": 11
+      },
+      {
+        "id": 24,
+        "name": "Dalian-coursework1",
+        "start_date": "2022-10-20",
+        "end_date": "2022-12-02",
+        "level": "university",
+        "teams": 51
+      },
+      {
+        "id": 26,
+        "name": "SYSU2022-coursework",
+        "start_date": "2022-11-01",
+        "end_date": "2023-01-05",
+        "level": "university",
+        "teams": 30
+      },
+      {
+        "id": 27,
+        "name": "College-coursework",
+        "start_date": "2023-01-28",
+        "end_date": "2023-03-05",
+        "level": "university",
+        "teams": 5
+      },
+      {
+        "id": 33,
+        "name": "USTC-competition",
+        "start_date": "2023-03-15",
+        "end_date": "2023-06-01",
+        "level": "university",
+        "teams": 14
+      },
+      {
+        "id": 37,
+        "name": "SJTU-2023-AI3601-MARL",
+        "start_date": "2023-04-10",
+        "end_date": "2023-05-30",
+        "level": "university",
+        "teams": 14
+      },
+      {
+        "id": 38,
+        "name": "SJTU-2023-AI3601-Imitation",
+        "start_date": "2023-04-10",
+        "end_date": "2023-05-30",
+        "level": "university",
+        "teams": 10
+      },
+      {
+        "id": 39,
+        "name": "SJTU-2023-AI3601-OfflineRL",
+        "start_date": "2023-04-10",
+        "end_date": "2023-05-30",
+        "level": "university",
+        "teams": 6
+      },
+      {
+        "id": 40,
+        "name": "SJTU-2023-AI1603-overcookedai",
+        "start_date": "2023-06-29",
+        "end_date": "2023-07-14",
+        "level": "university",
+        "teams": 13
+      }
+    ],
+    "other": [
+      {
+        "id": 1,
+        "name": "贪吃蛇3v3水友赛",
+        "start_date": "2021-01-15",
+        "end_date": "2021-02-12",
+        "level": "other",
+        "teams": 5
+      },
+      {
+        "id": 4,
+        "name": "MAAI Assignment",
+        "start_date": "2021-04-23",
+        "end_date": "2021-05-27",
+        "level": "other",
+        "teams": 7
+      },
+      {
+        "id": 5,
+        "name": "snake 1V1",
+        "start_date": "2021-07-08",
+        "end_date": "2021-07-23",
+        "level": "other",
+        "teams": 19
+      },
+      {
+        "id": 28,
+        "name": "Evaluations_test",
+        "start_date": "2023-01-28",
+        "end_date": "2023-03-01",
+        "level": "other",
+        "teams": 0
+      },
+      {
+        "id": 42,
+        "name": "CCF-TaxingAI-track1",
+        "start_date": "2023-07-06",
+        "end_date": "2023-11-30",
+        "level": "other",
+        "teams": 24
+      },
+      {
+        "id": 43,
+        "name": "CCF-TaxingAI-track2",
+        "start_date": "2023-07-06",
+        "end_date": "2023-11-31",
+        "level": "other",
+        "teams": 31
+      },
+      {
+        "id": 45,
+        "name": "KaFang Technology - Stock4RL",
+        "start_date": "2023-12-01",
+        "end_date": "2024-03-25",
+        "level": "other",
+        "teams": 12
+      },
+      {
+        "id": 51,
+        "name": "上海交通大学 AI3617 竞赛 - 赛道1",
+        "start_date": "2024-05-16",
+        "end_date": "2024-06-03",
+        "level": "other",
+        "teams": 6
+      },
+      {
+        "id": 52,
+        "name": "上海交通大学 AI3617 竞赛 - 赛道2",
+        "start_date": "2024-05-16",
+        "end_date": "2024-06-03",
+        "level": "other",
+        "teams": 4
+      },
+      {
+        "id": 54,
+        "name": "上海交通大学2024AI竞赛",
+        "start_date": "2024-06-25",
+        "end_date": "2024-07-18",
+        "level": "other",
+        "teams": 9
+      },
+      {
+        "id": 57,
+        "name": "国科大多智能体系统课程作业2025",
+        "start_date": "2025-02-24",
+        "end_date": "2025-04-13",
+        "level": "other",
+        "teams": 22
+      },
+      {
+        "id": 61,
+        "name": "上海创智学院实训擂台",
+        "start_date": "2025-11-07",
+        "end_date": "2025-11-11",
+        "level": "other",
+        "teams": 10
+      },
+      {
+        "id": 62,
+        "name": "国科大多智能体系统课程作业2026",
+        "start_date": "2026-03-01",
+        "end_date": "2026-04-11",
+        "level": "other",
+        "teams": 13
+      }
+    ]
+  }
+}

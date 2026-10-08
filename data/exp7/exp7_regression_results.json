@@ -1,0 +1,16 @@
+{
+  "tau_vs_complexity": {
+    "slope": 0.1069,
+    "intercept": -0.609,
+    "R2": 0.1957,
+    "p_value": 0.1132,
+    "n_envs": 14
+  },
+  "convergence_vs_complexity": {
+    "slope": -0.0396,
+    "intercept": 1.1903,
+    "R2": 0.0425,
+    "p_value": 0.4796,
+    "n_envs": 14
+  }
+}
