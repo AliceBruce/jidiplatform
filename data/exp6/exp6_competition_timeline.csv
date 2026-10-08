@@ -1,28 +1,28 @@
 name,level,start,end,teams
-贪吃蛇3v3水友赛,other,2021-01-15,2021-02-12,5
+Snake 3v3 Friendly,other,2021-01-15,2021-02-12,5
 MAAI Assignment,university,2021-04-23,2021-05-27,7
 snake 1V1,other,2021-07-08,2021-07-23,19
 rlchina snake3v3,national,2021-08-02,2021-08-21,80
-rlchina2021暑期习题课擂台,national,2021-08-20,2021-08-30,238
-rlchina2021秋季赛,national,2021-08-31,2021-10-25,67
+RLChina 2021 Summer Practice Arena,national,2021-08-20,2021-08-30,238
+RLChina 2021 Autumn,national,2021-08-31,2021-10-25,67
 SJTU-AI3601-MARL,university,2021-10-22,2022-01-01,11
-rlchina2021东,national,2021-11-08,2022-01-22,115
+RLChina 2021 East,national,2021-11-08,2022-01-22,115
 SJTU-CS410,university,2021-11-17,2022-01-05,21
-rlchina2022春,national,2022-01-29,2022-04-20,68
+RLChina 2022 Spring,national,2022-01-29,2022-04-20,68
 Cog-football-track1,international-top,2022-02-23,2022-08-24,18
 Cog-football-track2,international-top,2022-02-23,2022-08-24,23
 IJACI-track,national,2022-04-11,2022-07-30,54
 WAIC-track,national,2022-04-20,2022-06-28,116
 USTB-football,university,2022-05-16,2022-07-06,21
-rlchina2022夏,national,2022-05-25,2022-07-26,35
+RLChina 2022 Summer,national,2022-05-25,2022-07-26,35
 SJTU-Gobang,university,2022-06-27,2022-07-16,15
 USTC-Snakes,university,2022-07-18,2022-10-08,11
-rlchina2022秋,national,2022-08-15,2022-11-01,86
+RLChina 2022 Autumn,national,2022-08-15,2022-11-01,86
 Dalian-coursework1,university,2022-10-20,2022-12-02,51
 SYSU2022-coursework,university,2022-11-01,2023-01-05,30
-rlchina2022冬,national,2022-11-03,2023-01-07,69
+RLChina 2022 Winter,national,2022-11-03,2023-01-07,69
 College-coursework,university,2023-01-28,2023-03-05,5
-rlchina23春,national,2023-02-19,2023-04-21,59
+RLChina 2023 Spring,national,2023-02-19,2023-04-21,59
 AAMAS2023-track3,international-top,2023-03-15,2023-05-23,30
 AAMAS2023-track1,international-top,2023-03-15,2023-05-23,30
 USTC-competition,university,2023-03-15,2023-06-01,14
@@ -34,23 +34,23 @@ SJTU-2023-AI3601-Imitation,university,2023-04-10,2023-05-30,10
 SJTU-2023-AI3601-OfflineRL,university,2023-04-10,2023-05-30,6
 SJTU-2023-AI3601-MARL,university,2023-04-10,2023-05-30,14
 SJTU-2023-AI1603-overcookedai,university,2023-06-29,2023-07-14,13
-rlchina2023夏,national,2023-07-06,2023-08-28,17
+RLChina 2023 Summer,national,2023-07-06,2023-08-28,17
 CCF-TaxingAI-track1,other,2023-07-06,2023-11-30,24
-rlchina2023冬,national,2023-11-15,2024-01-25,11
+RLChina 2023 Winter,national,2023-11-15,2024-01-25,11
 KaFang Technology - Stock4RL,other,2023-12-01,2024-03-25,12
-AAMAS2024计算经济挑战赛-track2,international-top,2024-03-01,2024-05-01,13
+AAMAS 2024 Computational Economics Challenge - Track 2,international-top,2024-03-01,2024-05-01,13
 AAMAS2024Card-track3,international-top,2024-03-01,2024-05-01,18
 AAMAS2024Card-track1,international-top,2024-03-01,2024-05-01,17
-AAMAS2024计算经济挑战赛-track1,international-top,2024-03-01,2024-05-01,18
+AAMAS 2024 Computational Economics Challenge - Track 1,international-top,2024-03-01,2024-05-01,18
 AAMAS2024Card-track2,international-top,2024-03-01,2024-05-01,9
-上海交通大学 AI3617 竞赛 - 赛道1,other,2024-05-16,2024-06-03,6
-RLChina2024夏,national,2024-06-18,2024-07-23,37
-上海交通大学2024AI竞赛,other,2024-06-25,2024-07-18,9
-国科大多智能体系统课程作业2025,other,2025-02-24,2025-04-13,22
-AAMAS2025计算经济挑战赛-track1,international-top,2025-03-14,2025-05-14,18
-AAMAS2025计算经济挑战赛-track2,international-top,2025-03-14,2025-05-14,16
+SJTU AI3617 Competition - Track 1,other,2024-05-16,2024-06-03,6
+RLChina 2024 Summer,national,2024-06-18,2024-07-23,37
+SJTU 2024 AI Competition,other,2024-06-25,2024-07-18,9
+UCAS Multi-Agent Systems Coursework 2025,other,2025-02-24,2025-04-13,22
+AAMAS 2025 Computational Economics Challenge - Track 1,international-top,2025-03-14,2025-05-14,18
+AAMAS 2025 Computational Economics Challenge - Track 2,international-top,2025-03-14,2025-05-14,16
 AAMAS2025Card-track1,international-top,2025-04-03,2025-05-14,12
 AAMAS2025Card-track2,international-top,2025-04-03,2025-05-14,8
 AAMAS2025Card-track3,international-top,2025-04-03,2025-05-14,12
-上海创智学院实训擂台,other,2025-11-07,2025-11-11,10
-国科大多智能体系统课程作业2026,other,2026-03-01,2026-04-11,13
+Shanghai AI Academy Practice Arena,other,2025-11-07,2025-11-11,10
+UCAS Multi-Agent Systems Coursework 2026,other,2026-03-01,2026-04-11,13

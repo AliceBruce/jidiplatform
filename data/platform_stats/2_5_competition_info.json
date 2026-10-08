@@ -2,7 +2,7 @@
   "all_competitions": [
     {
       "id": 1,
-      "name": "贪吃蛇3v3水友赛",
+      "name": "Snake 3v3 Friendly",
       "start_date": "2021-01-15",
       "end_date": "2021-02-12",
       "level": "other",
@@ -34,7 +34,7 @@
     },
     {
       "id": 7,
-      "name": "rlchina2021暑期习题课擂台",
+      "name": "RLChina 2021 Summer Practice Arena",
       "start_date": "2021-08-20",
       "end_date": "2021-08-30",
       "level": "national",
@@ -42,7 +42,7 @@
     },
     {
       "id": 8,
-      "name": "rlchina2021秋季赛",
+      "name": "RLChina 2021 Autumn",
       "start_date": "2021-08-31",
       "end_date": "2021-10-25",
       "level": "national",
@@ -90,7 +90,7 @@
     },
     {
       "id": 14,
-      "name": "rlchina2022春",
+      "name": "RLChina 2022 Spring",
       "start_date": "2022-01-29",
       "end_date": "2022-04-20",
       "level": "national",
@@ -138,7 +138,7 @@
     },
     {
       "id": 20,
-      "name": "rlchina2022夏",
+      "name": "RLChina 2022 Summer",
       "start_date": "2022-05-25",
       "end_date": "2022-07-26",
       "level": "national",
@@ -162,7 +162,7 @@
     },
     {
       "id": 23,
-      "name": "rlchina2022秋",
+      "name": "RLChina 2022 Autumn",
       "start_date": "2022-08-15",
       "end_date": "2022-11-01",
       "level": "national",
@@ -186,7 +186,7 @@
     },
     {
       "id": 25,
-      "name": "rlchina2022冬",
+      "name": "RLChina 2022 Winter",
       "start_date": "2022-11-03",
       "end_date": "2023-01-07",
       "level": "national",
@@ -210,7 +210,7 @@
     },
     {
       "id": 29,
-      "name": "rlchina23春",
+      "name": "RLChina 2023 Spring",
       "start_date": "2023-02-19",
       "end_date": "2023-04-21",
       "level": "national",
@@ -306,7 +306,7 @@
     },
     {
       "id": 41,
-      "name": "rlchina2023夏",
+      "name": "RLChina 2023 Summer",
       "start_date": "2023-07-06",
       "end_date": "2023-08-28",
       "level": "national",
@@ -330,7 +330,7 @@
     },
     {
       "id": 44,
-      "name": "rlchina2023冬",
+      "name": "RLChina 2023 Winter",
       "start_date": "2023-11-15",
       "end_date": "2024-01-25",
       "level": "national",
@@ -346,7 +346,7 @@
     },
     {
       "id": 46,
-      "name": "AAMAS2024计算经济挑战赛-track1",
+      "name": "AAMAS 2024 Computational Economics Challenge - Track 1",
       "start_date": "2024-03-01",
       "end_date": "2024-05-01",
       "level": "international-top",
@@ -354,7 +354,7 @@
     },
     {
       "id": 47,
-      "name": "AAMAS2024计算经济挑战赛-track2",
+      "name": "AAMAS 2024 Computational Economics Challenge - Track 2",
       "start_date": "2024-03-01",
       "end_date": "2024-05-01",
       "level": "international-top",
@@ -386,7 +386,7 @@
     },
     {
       "id": 51,
-      "name": "上海交通大学 AI3617 竞赛 - 赛道1",
+      "name": "SJTU AI3617 Competition - Track 1",
       "start_date": "2024-05-16",
       "end_date": "2024-06-03",
       "level": "other",
@@ -402,7 +402,7 @@
     },
     {
       "id": 53,
-      "name": "RLChina2024夏",
+      "name": "RLChina 2024 Summer",
       "start_date": "2024-06-18",
       "end_date": "2024-07-23",
       "level": "national",
@@ -410,7 +410,7 @@
     },
     {
       "id": 54,
-      "name": "上海交通大学2024AI竞赛",
+      "name": "SJTU 2024 AI Competition",
       "start_date": "2024-06-25",
       "end_date": "2024-07-18",
       "level": "other",
@@ -418,7 +418,7 @@
     },
     {
       "id": 57,
-      "name": "国科大多智能体系统课程作业2025",
+      "name": "UCAS Multi-Agent Systems Coursework 2025",
       "start_date": "2025-02-24",
       "end_date": "2025-04-13",
       "level": "other",
@@ -426,7 +426,7 @@
     },
     {
       "id": 55,
-      "name": "AAMAS2025计算经济挑战赛-track1",
+      "name": "AAMAS 2025 Computational Economics Challenge - Track 1",
       "start_date": "2025-03-14",
       "end_date": "2025-05-14",
       "level": "international-top",
@@ -434,7 +434,7 @@
     },
     {
       "id": 56,
-      "name": "AAMAS2025计算经济挑战赛-track2",
+      "name": "AAMAS 2025 Computational Economics Challenge - Track 2",
       "start_date": "2025-03-14",
       "end_date": "2025-05-14",
       "level": "international-top",
@@ -550,7 +550,7 @@
       },
       {
         "id": 46,
-        "name": "AAMAS2024计算经济挑战赛-track1",
+        "name": "AAMAS 2024 Computational Economics Challenge - Track 1",
         "start_date": "2024-03-01",
         "end_date": "2024-05-01",
         "level": "international-top",
@@ -558,7 +558,7 @@
       },
       {
         "id": 47,
-        "name": "AAMAS2024计算经济挑战赛-track2",
+        "name": "AAMAS 2024 Computational Economics Challenge - Track 2",
         "start_date": "2024-03-01",
         "end_date": "2024-05-01",
         "level": "international-top",
@@ -590,7 +590,7 @@
       },
       {
         "id": 55,
-        "name": "AAMAS2025计算经济挑战赛-track1",
+        "name": "AAMAS 2025 Computational Economics Challenge - Track 1",
         "start_date": "2025-03-14",
         "end_date": "2025-05-14",
         "level": "international-top",
@@ -598,7 +598,7 @@
       },
       {
         "id": 56,
-        "name": "AAMAS2025计算经济挑战赛-track2",
+        "name": "AAMAS 2025 Computational Economics Challenge - Track 2",
         "start_date": "2025-03-14",
         "end_date": "2025-05-14",
         "level": "international-top",
@@ -640,7 +640,7 @@
       },
       {
         "id": 7,
-        "name": "rlchina2021暑期习题课擂台",
+        "name": "RLChina 2021 Summer Practice Arena",
         "start_date": "2021-08-20",
         "end_date": "2021-08-30",
         "level": "national",
@@ -648,7 +648,7 @@
       },
       {
         "id": 8,
-        "name": "rlchina2021秋季赛",
+        "name": "RLChina 2021 Autumn",
         "start_date": "2021-08-31",
         "end_date": "2021-10-25",
         "level": "national",
@@ -664,7 +664,7 @@
       },
       {
         "id": 14,
-        "name": "rlchina2022春",
+        "name": "RLChina 2022 Spring",
         "start_date": "2022-01-29",
         "end_date": "2022-04-20",
         "level": "national",
@@ -688,7 +688,7 @@
       },
       {
         "id": 20,
-        "name": "rlchina2022夏",
+        "name": "RLChina 2022 Summer",
         "start_date": "2022-05-25",
         "end_date": "2022-07-26",
         "level": "national",
@@ -696,7 +696,7 @@
       },
       {
         "id": 23,
-        "name": "rlchina2022秋",
+        "name": "RLChina 2022 Autumn",
         "start_date": "2022-08-15",
         "end_date": "2022-11-01",
         "level": "national",
@@ -704,7 +704,7 @@
       },
       {
         "id": 25,
-        "name": "rlchina2022冬",
+        "name": "RLChina 2022 Winter",
         "start_date": "2022-11-03",
         "end_date": "2023-01-07",
         "level": "national",
@@ -712,7 +712,7 @@
       },
       {
         "id": 29,
-        "name": "rlchina23春",
+        "name": "RLChina 2023 Spring",
         "start_date": "2023-02-19",
         "end_date": "2023-04-21",
         "level": "national",
@@ -720,7 +720,7 @@
       },
       {
         "id": 41,
-        "name": "rlchina2023夏",
+        "name": "RLChina 2023 Summer",
         "start_date": "2023-07-06",
         "end_date": "2023-08-28",
         "level": "national",
@@ -728,7 +728,7 @@
       },
       {
         "id": 44,
-        "name": "rlchina2023冬",
+        "name": "RLChina 2023 Winter",
         "start_date": "2023-11-15",
         "end_date": "2024-01-25",
         "level": "national",
@@ -736,7 +736,7 @@
       },
       {
         "id": 53,
-        "name": "RLChina2024夏",
+        "name": "RLChina 2024 Summer",
         "start_date": "2024-06-18",
         "end_date": "2024-07-23",
         "level": "national",
@@ -868,7 +868,7 @@
     "other": [
       {
         "id": 1,
-        "name": "贪吃蛇3v3水友赛",
+        "name": "Snake 3v3 Friendly",
         "start_date": "2021-01-15",
         "end_date": "2021-02-12",
         "level": "other",
@@ -924,7 +924,7 @@
       },
       {
         "id": 51,
-        "name": "上海交通大学 AI3617 竞赛 - 赛道1",
+        "name": "SJTU AI3617 Competition - Track 1",
         "start_date": "2024-05-16",
         "end_date": "2024-06-03",
         "level": "other",
@@ -940,7 +940,7 @@
       },
       {
         "id": 54,
-        "name": "上海交通大学2024AI竞赛",
+        "name": "SJTU 2024 AI Competition",
         "start_date": "2024-06-25",
         "end_date": "2024-07-18",
         "level": "other",
@@ -948,7 +948,7 @@
       },
       {
         "id": 57,
-        "name": "国科大多智能体系统课程作业2025",
+        "name": "UCAS Multi-Agent Systems Coursework 2025",
         "start_date": "2025-02-24",
         "end_date": "2025-04-13",
         "level": "other",
