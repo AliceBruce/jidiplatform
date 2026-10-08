@@ -74,7 +74,7 @@
     },
     {
       "id": 12,
-      "name": "rlchina2021东",
+      "name": "RLChina 2021 East",
       "start_date": "2021-11-08",
       "end_date": "2022-01-22",
       "level": "national",
@@ -394,7 +394,7 @@
     },
     {
       "id": 52,
-      "name": "上海交通大学 AI3617 竞赛 - 赛道2",
+      "name": "SJTU AI3617 Competition - Track 2",
       "start_date": "2024-05-16",
       "end_date": "2024-06-03",
       "level": "other",
@@ -466,7 +466,7 @@
     },
     {
       "id": 61,
-      "name": "上海创智学院实训擂台",
+      "name": "Shanghai AI Academy Practice Arena",
       "start_date": "2025-11-07",
       "end_date": "2025-11-11",
       "level": "other",
@@ -474,7 +474,7 @@
     },
     {
       "id": 62,
-      "name": "国科大多智能体系统课程作业2026",
+      "name": "UCAS Multi-Agent Systems Coursework 2026",
       "start_date": "2026-03-01",
       "end_date": "2026-04-11",
       "level": "other",
@@ -656,7 +656,7 @@
       },
       {
         "id": 12,
-        "name": "rlchina2021东",
+        "name": "RLChina 2021 East",
         "start_date": "2021-11-08",
         "end_date": "2022-01-22",
         "level": "national",
@@ -932,7 +932,7 @@
       },
       {
         "id": 52,
-        "name": "上海交通大学 AI3617 竞赛 - 赛道2",
+        "name": "SJTU AI3617 Competition - Track 2",
         "start_date": "2024-05-16",
         "end_date": "2024-06-03",
         "level": "other",
@@ -956,7 +956,7 @@
       },
       {
         "id": 61,
-        "name": "上海创智学院实训擂台",
+        "name": "Shanghai AI Academy Practice Arena",
         "start_date": "2025-11-07",
         "end_date": "2025-11-11",
         "level": "other",
@@ -964,7 +964,7 @@
       },
       {
         "id": 62,
-        "name": "国科大多智能体系统课程作业2026",
+        "name": "UCAS Multi-Agent Systems Coursework 2026",
         "start_date": "2026-03-01",
         "end_date": "2026-04-11",
         "level": "other",
