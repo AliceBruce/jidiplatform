@@ -44,6 +44,7 @@ data/
     exp6_window_stats.csv       Windowed statistics
   case_study/                   Case study visualization data
   platform_stats/               §3 Operational audit + §4 platform scale
+    operational_audit_data.docx  Full §3.4 performance analysis (15 envs, P50/P95 latency, throughput)
     2_1_user_info.json          User statistics (6,314 registered, long-tailed)
     2_2_policy_info.json        Policy version statistics (34,389 versions)
     2_3_env_info.json           Environment statistics (109 environments)
