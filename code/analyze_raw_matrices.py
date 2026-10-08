@@ -26,9 +26,9 @@ ENVS = {
 }
 
 def load_matrix(env_id):
-    with open(BASE / f'env{env_id}_matrix.json') as f:
+    with open(BASE / f'env{env_id}.json') as f:
         d = json.load(f)
-    users = d['users']
+    users = d['user_ids']
     W = np.array(d['win_rate_matrix'], dtype=float)
     # Replace NaN/inf with 0.5
     W = np.nan_to_num(W, nan=0.5, posinf=1.0, neginf=0.0)

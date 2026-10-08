@@ -1,0 +1,14 @@
+{
+  "competition_weeks": {
+    "n_weeks": 131,
+    "avg_new_users": 39.5,
+    "avg_submissions": 211.4,
+    "avg_active_users": 26.9
+  },
+  "baseline_weeks": {
+    "n_weeks": 126,
+    "avg_new_users": 9.0,
+    "avg_submissions": 50.0,
+    "avg_active_users": 6.6
+  }
+}

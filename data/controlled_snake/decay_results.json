@@ -1,0 +1,104 @@
+{
+  "Snake 3v3": [
+    {
+      "early_period": 0,
+      "late_period": 1,
+      "early_n": 111,
+      "late_n": 51,
+      "time_gap_days": 263,
+      "pred_rho": 0.9955
+    },
+    {
+      "early_period": 0,
+      "late_period": 2,
+      "early_n": 111,
+      "late_n": 19,
+      "time_gap_days": 526,
+      "pred_rho": 0.9908
+    },
+    {
+      "early_period": 0,
+      "late_period": 3,
+      "early_n": 111,
+      "late_n": 23,
+      "time_gap_days": 789,
+      "pred_rho": 0.996
+    },
+    {
+      "early_period": 1,
+      "late_period": 2,
+      "early_n": 51,
+      "late_n": 19,
+      "time_gap_days": 263,
+      "pred_rho": 0.993
+    },
+    {
+      "early_period": 1,
+      "late_period": 3,
+      "early_n": 51,
+      "late_n": 23,
+      "time_gap_days": 526,
+      "pred_rho": 0.9872
+    },
+    {
+      "early_period": 2,
+      "late_period": 3,
+      "early_n": 19,
+      "late_n": 23,
+      "time_gap_days": 263,
+      "pred_rho": 0.9884
+    }
+  ],
+  "GRF 11v11": [
+    {
+      "early_period": 0,
+      "late_period": 1,
+      "early_n": 9,
+      "late_n": 20,
+      "time_gap_days": 293,
+      "pred_rho": 0.9797
+    },
+    {
+      "early_period": 0,
+      "late_period": 2,
+      "early_n": 9,
+      "late_n": 10,
+      "time_gap_days": 586,
+      "pred_rho": 0.9175
+    },
+    {
+      "early_period": 1,
+      "late_period": 2,
+      "early_n": 20,
+      "late_n": 10,
+      "time_gap_days": 293,
+      "pred_rho": 0.693
+    }
+  ],
+  "Olympics": [
+    {
+      "early_period": 0,
+      "late_period": 1,
+      "early_n": 51,
+      "late_n": 9,
+      "time_gap_days": 242,
+      "pred_rho": 0.9333
+    },
+    {
+      "early_period": 0,
+      "late_period": 4,
+      "early_n": 51,
+      "late_n": 19,
+      "time_gap_days": 968,
+      "pred_rho": 0.9877
+    },
+    {
+      "early_period": 1,
+      "late_period": 4,
+      "early_n": 9,
+      "late_n": 19,
+      "time_gap_days": 726,
+      "pred_rho": 0.92
+    }
+  ]
+}

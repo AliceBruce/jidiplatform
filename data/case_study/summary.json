@@ -1,0 +1,36 @@
+{
+  "env_id": 6,
+  "targets": 15,
+  "old_opponents": 20,
+  "recent_opponents": 20,
+  "reference_opponents": 81,
+  "unique_tasks": 18150,
+  "rho_old": 0.8558642641974225,
+  "rho_recent": 0.9329762438601865,
+  "hero": {
+    "submission_id": 11449,
+    "rank_old": 13.0,
+    "rank_rec": 7.0,
+    "rank_ref": 9.0,
+    "win_rate_old": 0.91,
+    "win_rate_rec": 0.4975,
+    "win_rate_ref": 0.64012345679,
+    "signed_rank_change": -6.0,
+    "absolute_rank_change": 6.0,
+    "old_reference_rank_error": 4.0,
+    "recent_reference_rank_error": 2.0,
+    "win_rate_change": -0.41250000000000003
+  },
+  "hero_selection": "max absolute old-recent rank displacement, tie smallest submission ID; signed positive means worse",
+  "median_absolute_shift": 1.0,
+  "q25_absolute_shift": 0.75,
+  "q75_absolute_shift": 2.75,
+  "iqr_absolute_shift": 2.0,
+  "recent_opponents_below_point4": 8,
+  "diagnostic_opponents": [
+    10747,
+    10920,
+    11286
+  ],
+  "fallback_required": false
+}

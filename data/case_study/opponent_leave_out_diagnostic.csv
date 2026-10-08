@@ -1,0 +1,5 @@
+removed_opponents,remaining_opponents,hero_win_rate,hero_rank,interpretation
+10747,19,0.523684210526,7.0,"descriptive same-data leave-out, not causal attribution"
+10920,19,0.523684210526,7.0,"descriptive same-data leave-out, not causal attribution"
+11286,19,0.521052631579,7.0,"descriptive same-data leave-out, not causal attribution"
+10747;10920;11286,17,0.582352941176,7.0,"descriptive same-data leave-out, not causal attribution"

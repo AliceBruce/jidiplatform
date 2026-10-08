@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "exact_pdf_target_old_recent_ids_checked": true,
+  "disjoint_submissions": true,
+  "independently_checked_first10_pairs": 1815,
+  "unique_selected_tasks": 18150,
+  "raw_log_evidence_tasks": 34437,
+  "excluded_tasks": [
+    5962671,
+    7683616
+  ],
+  "all_scores_and_ranks_equal_prior_analysis": true,
+  "hero_selected_by_prescribed_rule": true
+}

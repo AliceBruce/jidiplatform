@@ -153,8 +153,9 @@ def plot_learning():
     # (b) Version count boxplot
     ax = axes[1]
     data_ver = [df[df['paper_tier'] == t]['n_versions'].values for t in tiers]
-    bp = ax.boxplot(data_ver, tick_labels=tiers, patch_artist=True, showfliers=False,
+    bp = ax.boxplot(data_ver, patch_artist=True, showfliers=False,
                     medianprops=dict(color='black', lw=1))
+    ax.set_xticklabels(tiers)
     for patch, t in zip(bp['boxes'], tiers):
         patch.set_facecolor(tier_colors[t])
         patch.set_alpha(0.7)

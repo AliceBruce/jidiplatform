@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 
 from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parent.parent
-_data_path = REPO_ROOT / 'data' / 'controlled_snake' / 'summary.json'
+_data_path = REPO_ROOT / 'data' / 'controlled_snake' / 'decay_results.json'
 with open(_data_path) as f:
     data = json.load(f)
 

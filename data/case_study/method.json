@@ -1,0 +1,17 @@
+{
+  "source_pdf": "inputs/case_study_method.pdf",
+  "env_id": 6,
+  "scenario": "all_history_first10",
+  "score": "equal mean over opponent-specific first10 win rates; draw=.5",
+  "ties": "scores rounded12 decimals; average ranks",
+  "hero": "largest absolute old-recent rank difference, smallest submission ID breaks ties",
+  "weak_opponents": "hero win rate <.4; choose up to3 lowest win rates, tie opponent ID",
+  "fallback": "only if no target has shift>3; PDF also mentions<=2, use stricter final threshold3; observed maximum6 passes both",
+  "interpretation": "same fixed submission, different historical opponent cohorts; no causal proof or controlled historical execution conditions",
+  "differences_from_pdf": [
+    "hero rises in rank, not drops; report observed direction",
+    "recent vs reference closer does not mean exact confirmation",
+    "daily vs competition ID namespaces must be checked by tables, not numeric values; no E2 identities used",
+    "use frozen T×pool data instead of substituting a different A_REQ3 subset"
+  ]
+}

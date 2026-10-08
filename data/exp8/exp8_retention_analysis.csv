@@ -1,0 +1,4 @@
+period,total_users,retained_users,retention_rate
+30d,2249,311,13.8
+60d,2249,221,9.8
+90d,2249,200,8.9
