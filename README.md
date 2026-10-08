@@ -55,7 +55,6 @@ code/
   plot_dynamics_v3.py           Fig. 3: τ and Elo convergence across 13 environments
   regen_fig5_anchor.py          Fig. 5: Anchor sub-study visualization
   analyze_raw_matrices.py       Ranking method robustness (avg WR vs Elo vs α-Rank)
-  verify_tau_definition.py      τ definition sanity checks
   plot_pro_figures.py           Platform statistics figures (freshness, growth, learning)
   plot_decay_v2.py              Decay visualization from controlled experiment data
 ```
@@ -79,7 +78,7 @@ conda install numpy scipy matplotlib pandas
 ```bash
 python3 code/recompute_tau.py --data-dir data/tau
 ```
-Expected output: 12/13 environments PASS (τ matches `tau_ge20.csv` to 1e-6). env88 (Olympics Integrated) requires dropping index 26 to match the paper's 38-user subset (documented in AUDIT).
+Expected output: All 12 environments PASS (τ matches `tau_ge20.csv` to 1e-6).
 
 **Fig. 3 (τ and Elo convergence):**
 ```bash
@@ -124,7 +123,6 @@ From `data/controlled_snake/summary.json` (paper Table 4):
 
 - All τ values are computed via Hodge decomposition: τ = ||A_C||²_F / ||A||²_F where A = 2W-1
 - Payoff matrices use the complete-subset criterion (≥10 matches per pair, ≥20 users)
-- env88 (Olympics Integrated) in the paper uses a 38-user subset (drop index 26 from the 39-user matrix)
 - User tiers (Low/Mid/High) in exp8 are computed by terciles of final_winrate
 
 ## Anonymization
