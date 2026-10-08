@@ -78,7 +78,7 @@ conda install numpy scipy matplotlib pandas
 ```bash
 python3 code/recompute_tau.py --data-dir data/tau
 ```
-Expected output: All 12 environments PASS (τ matches `tau_ge20.csv` to 1e-6).
+Expected output: All 13 environments PASS (τ matches `tau_ge20.csv` to 1e-6).
 
 **Fig. 3 (τ and Elo convergence):**
 ```bash
