@@ -2,7 +2,7 @@
 """
 Deep analysis of raw payoff matrices:
 1. Ranking method robustness (avg winrate vs Elo vs alpha-Rank)
-2. Strategy谱系 / clustering
+2. Strategy lineage / clustering
 3. Non-transitive cycle detection
 """
 import json

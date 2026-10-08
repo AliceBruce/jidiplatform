@@ -15,7 +15,7 @@
       "30": 0.0144,
       "40": 0.0043
     },
-    "note": "假定效应量保持 R²=0.196 不变"
+    "note": "Assuming effect size maintains R²=0.196"
   },
   "bootstrap_10000": {
     "slope_ci95": [
@@ -119,5 +119,6 @@
     "one_sided_p": 0.0632,
     "T": 10000,
     "seed": 20260821
-  }
+  },
+  "note": "Power analysis for tau-complexity regression"
 }
